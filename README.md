@@ -1,4 +1,4 @@
-# High School and College Information Technology Certification Paths
+# Career Bound High School and College Information Technology Students
 ## Purpose
 As a student, your end goal is not limited to getting good grades or getting into a good college. Instead, you are building skills and experience towards landing that first job that will lead to a life-time long career in the information technology sector. You may want to manage cloud infrastructure, write software or games, hack into networks and web applications, or create Internet of Things devices. To do that, you first have to be able to demonstrate to a potential employer that you should be interviewed - to get your foot into the door to be considered for that job. This resource is intended to complement the high school and college course you are taking with recommendations of certifications to pursue.
 
