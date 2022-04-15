@@ -30,6 +30,35 @@ The table below shows Kansas City Area job descriptions that feature entry-level
 |CompTia CySA+|||||
 |CompTia Pentest+|||||
 
+Finally, the list below provides free (or minimal cost) resources to study towards obtaining those certifications.
+- A+
+  -  [Professor Messer](https://www.professormesser.com/about/)
+  -  [My CS](https://www.youtube.com/playlist?list=PLKp3X-578hN-tuoQ4vdlR_yUMt2SmAAQf)
+- Network+
+  -  [Professor Messer](https://www.professormesser.com/about/)
+  -  [FreeCodeCamp Network+](https://www.youtube.com/watch?v=qiQR5rTSshw)
+  -  [My CS](https://www.youtube.com/playlist?list=PLKp3X-578hN-tuoQ4vdlR_yUMt2SmAAQf)
+- Linux+
+- Security+
+  -  [Professor Messer](https://www.professormesser.com/about/)
+  -  [My CS](https://www.youtube.com/playlist?list=PLKp3X-578hN-tuoQ4vdlR_yUMt2SmAAQf)
+
+### ISC2 Certifications
+
+- CISSP (also Associates of ISC2)
+  - [FreeCodeCamp CISSP](https://www.youtube.com/watch?v=M1_v5HBVHWo)
+
+### Amazon Web Services (AWS) Certifications
+Amazon Free Tier: https://aws.amazon.com/free/
+
+- [FreeCodeCamp AWS Certified Cloud Practicioner](https://www.youtube.com/watch?v=SOTamWNgDKc)
+- [FreeCodeCamp AWS Certified Developer - Associate](https://www.youtube.com/watch?v=RrKRN9zRBWs)
+
+### Microsoft Azure Certifications
+Azure Free Account: https://azure.microsoft.com/en-us/free/
+
+- [FreeCodeCamp Microsoft Azure Fundamentals (AZ-900)](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
+- [FreeCodeCamp Azure Administrator Certification (AZ-104)](https://www.youtube.com/watch?v=10PbGbTUSAg)
 
 ## Applying For Jobs
 ### Before Applying For a Job
