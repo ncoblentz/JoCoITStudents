@@ -51,14 +51,24 @@ Finally, the list below provides free (or minimal cost) resources to study towar
 ### Amazon Web Services (AWS) Certifications
 Amazon Free Tier: https://aws.amazon.com/free/
 
-- [FreeCodeCamp AWS Certified Cloud Practicioner](https://www.youtube.com/watch?v=SOTamWNgDKc)
-- [FreeCodeCamp AWS Certified Developer - Associate](https://www.youtube.com/watch?v=RrKRN9zRBWs)
+- [Amazon Free Training - Cloud Practicioner](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/)
+- AWS Cloud Practicioner
+  - [FreeCodeCamp](https://www.youtube.com/watch?v=SOTamWNgDKc)
+  - [Edureka!](https://www.youtube.com/watch?v=XjPUyGKRjZs)
+-  AWS Certified Developer - Associate
+  - [FreeCodeCamp](https://www.youtube.com/watch?v=RrKRN9zRBWs)
+- AWS Certified Solutions Architect
+  - [FreeCodeCamp](https://www.youtube.com/watch?v=Ia-UEYYR44s)
+  - https://github.com/keenanromain/AWS-SAA-C02-Study-Guide
 
 ### Microsoft Azure Certifications
 Azure Free Account: https://azure.microsoft.com/en-us/free/
 
-- [FreeCodeCamp Microsoft Azure Fundamentals (AZ-900)](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
-- [FreeCodeCamp Azure Administrator Certification (AZ-104)](https://www.youtube.com/watch?v=10PbGbTUSAg)
+- Microsoft Azure Fundamentals (AZ-900)
+  - [FreeCodeCamp](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
+  - [Edureka!](https://www.youtube.com/watch?v=wK3U7xSt31M)
+- [Microsoft Azure Administrator Certification (AZ-104)
+  - [FreeCodeCamp](https://www.youtube.com/watch?v=10PbGbTUSAg)
 
 ## Applying For Jobs
 ### Before Applying For a Job
