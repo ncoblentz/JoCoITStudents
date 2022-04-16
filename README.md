@@ -18,11 +18,15 @@ The following sections list High School or College programs and the certificatio
 #### Johnson County Community College
 Course Catalog: https://catalog.jccc.edu/coursedescriptions/it/
 
+|Program|A+|Linux+|Network+|Security+|Pentest+|PCEP|Cisco CNA|Microsoft MD-101<br>Managing Modern Desktops|Microsoft MS-900<br>365 Fundamentals|Microsoft AZ-900<br>Azure Fundamentals|Microsoft AZ-104<br>Azure Administrator|Associate VMWare<b>Data Center Virtualization|Google Associate<br>Cloud Engineer|AWS Cloud Practicioner|AWS SysOps Administrator|LPIC-1|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|JCCC Cloud Certificate|||||||||||||||||
+  
 - Certificate: Cloud
   - CompTIA A+, Linux+, Network+
-  - Microsoft AZ-104: Microsoft Azure Administrator
-  - Microsoft AZ-104: Microsoft Azure Administrator
   - Microsoft MS-900: Microsoft 365 Fundamentals
+  - Microsoft AZ-900: Microsoft Azure Fundamentals
+  - Microsoft AZ-104: Microsoft Azure Administrator
   - Associate VMware Data Center Virtualization
   - Google Associate Cloud Engineer
   - AWS Certified Cloud Practicioner
@@ -31,8 +35,8 @@ Course Catalog: https://catalog.jccc.edu/coursedescriptions/it/
 - [Certificate: Cybersecurity](https://catalog.jccc.edu/degreecertificates/informationtechnology/cybersecurity-cert/)
   - CompTIA A+, Linux+, Network+, Pentest+
   - Cisco CyberOps Associate
-  - Microsoft AZ-104: Microsoft Azure Administrator
   - Microsoft MS-900: Microsoft 365 Fundamentals
+  - Microsoft AZ-900: Microsoft Azure Fundamentals
   - Linux Professional Institute LPIC-1
   - PCEP – Certified Entry-Level Python Programmer Certification
 - [Associate of Science: Networking](https://catalog.jccc.edu/degreecertificates/informationtechnology/information-technology-networking-aas/)
@@ -40,9 +44,9 @@ Course Catalog: https://catalog.jccc.edu/coursedescriptions/it/
   - Cisco Certified Network Associate
   - Cisco CyberOps Associate
   - Microsoft MD-101: Managing Modern Desktops
+  - Microsoft MS-900: Microsoft 365 Fundamentals
   - Microsoft AZ-900: Microsoft Azure Fundamentals
   - Microsoft AZ-104: Microsoft Azure Administrator
-  - Microsoft MS-900: Microsoft 365 Fundamentals
   - Linux Professional Institute LPIC-1
   - PCEP – Certified Entry-Level Python Programmer Certification
 - [Associate of Science: Computer Information Systems with Emphasis in Information Systems Technology](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/informationsystemstech-as/)
