@@ -12,11 +12,64 @@ More on certifications, projects, and displaying that work can be found within t
 
 But, how do you know which certifications, what kind of experience, and which projects to complete? First, go to job searching websites like LinkedIn, Google, Indeed, and more to search for the job you are interested in (and the geographic region you want to work in). Next, look at the amount of education, experience, skills, and certifications required. Often, that desired first job will require considerably more experience than you have initially. So, your next step is to chart a path towards that job. What kind of experience does that future job require and is there another entry-level position (even though it may be less desirable) that provides you that experience and opportunity to gain those additional skills? How many years experience do you need (how long at minimum should you stay in that entry-level position)? What other education and/or certification should you pursue in that entry-level position? Create a plan for getting to that future dream job.
 
+### Certification Alignment With Curricula
+The following sections list High School or College programs and the certifications that align with required classes. Your goal as a student is to take each exam related to the coursework the certification is aligned to. You may have to do additional study and hands-on activities to fully prepare you for the exam. Please contact the school to understand how closely the curricula fullfills the learning requirements towards that certification. 
+
+#### Johnson County Community College
+Course Catalog: https://catalog.jccc.edu/coursedescriptions/it/
+
+- Certificate: Cloud
+  - CompTIA A+, Linux+, Network+
+  - Microsoft AZ-104: Microsoft Azure Administrator
+  - Microsoft AZ-104: Microsoft Azure Administrator
+  - Microsoft MS-900: Microsoft 365 Fundamentals
+  - Associate VMware Data Center Virtualization
+  - Google Associate Cloud Engineer
+  - AWS Certified Cloud Practicioner
+  - AWS Certified SysOps Adminstrator
+  - Linux Professional Institute LPIC-1 (one more course needed)
+- [Certificate: Cybersecurity](https://catalog.jccc.edu/degreecertificates/informationtechnology/cybersecurity-cert/)
+  - CompTIA A+, Linux+, Network+, Pentest+
+  - Cisco CyberOps Associate
+  - Microsoft AZ-104: Microsoft Azure Administrator
+  - Microsoft MS-900: Microsoft 365 Fundamentals
+  - Linux Professional Institute LPIC-1
+  - PCEP – Certified Entry-Level Python Programmer Certification
+- [Associate of Science: Networking](https://catalog.jccc.edu/degreecertificates/informationtechnology/information-technology-networking-aas/)
+  - CompTIA A+, Linux+, Network+, Security+, Pentest+
+  - Cisco Certified Network Associate
+  - Cisco CyberOps Associate
+  - Microsoft MD-101: Managing Modern Desktops
+  - Microsoft AZ-900: Microsoft Azure Fundamentals
+  - Microsoft AZ-104: Microsoft Azure Administrator
+  - Microsoft MS-900: Microsoft 365 Fundamentals
+  - Linux Professional Institute LPIC-1
+  - PCEP – Certified Entry-Level Python Programmer Certification
+- [Associate of Science: Computer Information Systems with Emphasis in Information Systems Technology](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/informationsystemstech-as/)
+  - TODO
+- [Associate of Science: Computer Information Systems](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-info-systems-aas/)
+  - TODO
+- [Certificate: Computer Information Systems-Software Developer](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/software-developer-cert/)
+  - TODO
+- [Associate of Science: Computer Support Specialist](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-specialist-aas/)
+  - TODO
+- [Certificate: Computer Support Specialist A+](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-specialist-a-cert/)
+  - TODO
+- [Certificate: Computer Support Specialist Networking+/Security+](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-networking-security-cert/)
+  - TODO
+- [Certificate: Data Analytics](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/dataanalyticscert/index.html)
+  - TODO
+
+#### [Olathe Computer Science Academy](https://www.olatheschools.org/Page/10578)
+- [Programming and Software Development Pathway](https://www.olatheschools.org/Page/10932)
+  - Todo
+
+
 ### Certification Selection
 To select the right certifications, you first must know what kind of career you would like to pursue. Then, you should consider entry-level job listings and the certifications they list as "required" and "desired". You want to stand out above the other candidates, so the more of those "required" and "desired" qualifications you can check, the better chance you have at being considered for that job. Additionally, the course work you pursue in high school and college will often be aligned to industry standard certifications - which might require only a nominal amount of additional studying to prepare you for and pass those exams. 
 
 #### CompTia Certifications
-The following links provide a description of several CompTia certifications and the types of jobs typically associated with those certifications:
+The following links provide a description of several CompTIA certifications and the types of jobs typically associated with those certifications:
 - https://www.comptia.org/faq/a/what-jobs-can-i-get-with-a-comptia-a-certification
 - https://www.comptia.org/faq/network/what-jobs-can-i-get-with-comptia-network-certification
 - https://www.comptia.org/faq/security/what-jobs-can-i-get-with-comptia-security-certification
@@ -74,17 +127,19 @@ Azure Free Account: https://azure.microsoft.com/en-us/free/
 - Microsoft Azure Administrator Certification (AZ-104)
   - [FreeCodeCamp](https://www.youtube.com/watch?v=10PbGbTUSAg)
 
+## Applying For Jobs
+### Before Applying For a Job
+1. Create a LinkedIn Profile and showcase your certifications, experience (volunteer and work experience), and link to your GitHub (or similar) projects
+2. Create a resume
+3. Create a cover letter explaining highlighting and summarizing your experience and qualifications to demonstrate how you stand out above other candidates
 
-## Example Kansas City Area Entry-Level IT Jobs
-### Cerner
+
+### Example Kansas City Area Entry-Level IT Jobs
+#### Cerner
 - Go to: https://careers.cerner.com/Search and filter jobs for:
   - Career Path: Early Careers
   - Add your Zip Code
   - Choose the appropriate Distance
 - [Example Cerner Jobs](/Entry-Level%20Examples/Cerner/)
 
-## Applying For Jobs
-### Before Applying For a Job
-1. Create a LinkedIn Profile and showcase your certifications, experience (volunteer and work experience), and link to your GitHub (or similar) projects
-2. Create a resume
-3. Create a cover letter explaining highlighting and summarizing your experience and qualifications to demonstrate how you stand out above other candidates
+
