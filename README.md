@@ -2,6 +2,20 @@
 ## Purpose
 As a student, your end goal is not limited to getting good grades or getting into a good college. Instead, you are building skills and experience towards landing that first job that will lead to a life long career in the information technology sector. You may want to manage cloud infrastructure, write software or games, hack into networks and web applications, or create Internet of Things devices. To do that, you first have to be able to demonstrate to a potential employer that you should be interviewed - to get your foot into the door to be considered for that job. This resource is intended to complement the high school and college courses you are taking with recommendations of certifications to pursue based on real job descriptions in the Kansas City area.
 
+1. [Building Your Skills Experience and Earning Certifications](#building-your-skills-experience-and-earning-certifications)
+  1. [Certification Alignment with Curricula](#certification-alignment-with-curricula)    
+    - [Johnson County Community College](#johnson-county-community-college)
+  1. [Certification Selection](#certification-selection)   
+    - [Comptia Certifications](#comptia-certifications)   
+    - [ISC2 Certifications](#isc2-certifications)   
+    - [Amazon Web Services Aws Certifications](#amazon-web-services-aws-certifications)   
+    - [Microsoft Azure Certifications](#microsoft-azure-certifications)   
+    - [Offensive Hacking and Defensive Security Related Certifications](#offensive-hacking-and-defensive-security-related-certifications)
+1. [Applying For Jobs](#applying-for-jobs)
+  1. [Before Applying For a Job](#before-applying-for-a-job)
+  1. [Example Kansas City Area Entry Level IT Jobs](#example-kansas-city-area-entry-level-it-jobs)
+    - [Cerner](#cerner)
+
 ## Building Your Skills, Experience, and Earning Certifications
 When employers review a candidate's resume and cover letter, they are discerning whether the person meets the qualifications for the posted job and deciding who would most likely be successful in that organization and role. They are going to weigh the skills and experience the candidate already brings to the table versus the amount of training (and time) it will take to get them fully functional in that role. You can make that decision easier for the employer by demonstrating your skills and experience through:
 1. Certifications
