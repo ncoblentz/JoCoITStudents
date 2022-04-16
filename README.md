@@ -16,53 +16,24 @@ But, how do you know which certifications, what kind of experience, and which pr
 The following sections list High School or College programs and the certifications that align with required classes. Your goal as a student is to take each exam related to the coursework the certification is aligned to. You may have to do additional study and hands-on activities to fully prepare you for the exam. Please contact the school to understand how closely the curricula fullfills the learning requirements towards that certification. 
 
 #### Johnson County Community College
-Course Catalog: https://catalog.jccc.edu/coursedescriptions/it/
+Course Catalog:
+- https://catalog.jccc.edu/coursedescriptions/it/
+- https://catalog.jccc.edu/coursedescriptions/cis/
 
-|Program|A+|Linux+|Network+|Security+|Pentest+|PCEP|Cisco CNA|Microsoft MD-101<br>Managing Modern Desktops|Microsoft MS-900<br>365 Fundamentals|Microsoft AZ-900<br>Azure Fundamentals|Microsoft AZ-104<br>Azure Administrator|Associate VMWare<b>Data Center Virtualization|Google Associate<br>Cloud Engineer|AWS Cloud Practicioner|AWS SysOps Administrator|LPIC-1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|JCCC Cloud Certificate|||||||||||||||||
-  
-- Certificate: Cloud
-  - CompTIA A+, Linux+, Network+
-  - Microsoft MS-900: Microsoft 365 Fundamentals
-  - Microsoft AZ-900: Microsoft Azure Fundamentals
-  - Microsoft AZ-104: Microsoft Azure Administrator
-  - Associate VMware Data Center Virtualization
-  - Google Associate Cloud Engineer
-  - AWS Certified Cloud Practicioner
-  - AWS Certified SysOps Adminstrator
-  - Linux Professional Institute LPIC-1 (one more course needed)
-- [Certificate: Cybersecurity](https://catalog.jccc.edu/degreecertificates/informationtechnology/cybersecurity-cert/)
-  - CompTIA A+, Linux+, Network+, Pentest+
-  - Cisco CyberOps Associate
-  - Microsoft MS-900: Microsoft 365 Fundamentals
-  - Microsoft AZ-900: Microsoft Azure Fundamentals
-  - Linux Professional Institute LPIC-1
-  - PCEP – Certified Entry-Level Python Programmer Certification
-- [Associate of Science: Networking](https://catalog.jccc.edu/degreecertificates/informationtechnology/information-technology-networking-aas/)
-  - CompTIA A+, Linux+, Network+, Security+, Pentest+
-  - Cisco Certified Network Associate
-  - Cisco CyberOps Associate
-  - Microsoft MD-101: Managing Modern Desktops
-  - Microsoft MS-900: Microsoft 365 Fundamentals
-  - Microsoft AZ-900: Microsoft Azure Fundamentals
-  - Microsoft AZ-104: Microsoft Azure Administrator
-  - Linux Professional Institute LPIC-1
-  - PCEP – Certified Entry-Level Python Programmer Certification
-- [Associate of Science: Computer Information Systems with Emphasis in Information Systems Technology](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/informationsystemstech-as/)
-  - TODO
-- [Associate of Science: Computer Information Systems](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-info-systems-aas/)
-  - TODO
-- [Certificate: Computer Information Systems-Software Developer](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/software-developer-cert/)
-  - TODO
-- [Associate of Science: Computer Support Specialist](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-specialist-aas/)
-  - TODO
-- [Certificate: Computer Support Specialist A+](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-specialist-a-cert/)
-  - TODO
-- [Certificate: Computer Support Specialist Networking+/Security+](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-networking-security-cert/)
-  - TODO
-- [Certificate: Data Analytics](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/dataanalyticscert/index.html)
-  - TODO
+|Program|A+|Linux+|Network+|Security+|Pentest+|PCEP|Cisco CNA|Cisco CyberOps Associate|Microsoft MD-101 Managing Modern Desktops|Microsoft MS-900 365 Fundamentals|Microsoft AZ-900 Azure Fundamentals|Microsoft AZ-104 Azure Administrator|Associate VMWare Data Center Virtualization|Google Associate Cloud Engineer|AWS Cloud Practicioner|AWS SysOps Administrator|LPIC-1|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Certificate: Cloud|X|X|X|||||||X|X|X|X|X|X|X|X*|
+|[Certificate: Cybersecurity](https://catalog.jccc.edu/degreecertificates/informationtechnology/cybersecurity-cert/)|X|X|X|X|X|X||X||X|X||||||X|
+|[Associate: Networking](https://catalog.jccc.edu/degreecertificates/informationtechnology/information-technology-networking-aas/)|X|X|X|X|X|X|X|X|X|X|X|X|||||X|
+|[Associate: CIS with Emphasis in Information Systems Technology](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/informationsystemstech-as/)<br/>Seeking alignment information||||||||||||||||||
+|[Associate: CIS](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-info-systems-aas/)<br/>Seeking alignment information||||||||||||||||||
+|[Certificate: CIS - Software Developer](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/software-developer-cert/)<br/>Seeking alignment information||||||||||||||||||
+|[Associate: Computer Support Specialist](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-specialist-aas/)<br/>Seeking alignment information||||||||||||||||||
+|[Certificate: Computer Support Specialist A+](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-specialist-a-cert/)<br/>Seeking alignment information||||||||||||||||||
+|[Certificate: Computer Support Specialist Networking+/Security+](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-networking-security-cert/)<br/>Seeking alignment information||||||||||||||||||
+|[Certificate: Data Analytics](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/dataanalyticscert/index.html)<br/>Seeking alignment information||||||||||||||||||
+
+* Indicates there are additional JCCC courses needed to pursue this certification
 
 #### [Olathe Computer Science Academy](https://www.olatheschools.org/Page/10578)
 - [Programming and Software Development Pathway](https://www.olatheschools.org/Page/10932)
