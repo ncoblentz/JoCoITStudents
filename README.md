@@ -74,6 +74,15 @@ Azure Free Account: https://azure.microsoft.com/en-us/free/
 - Microsoft Azure Administrator Certification (AZ-104)
   - [FreeCodeCamp](https://www.youtube.com/watch?v=10PbGbTUSAg)
 
+
+## Example Kansas City Area Entry-Level IT Jobs
+### Cerner
+- Go to: https://careers.cerner.com/Search and filter jobs for:
+  - Career Path: Early Careers
+  - Add your Zip Code
+  - Choose the appropriate Distance
+- [Example Cerner Jobs](/Entry-Level%20Examples/Cerner/)
+
 ## Applying For Jobs
 ### Before Applying For a Job
 1. Create a LinkedIn Profile and showcase your certifications, experience (volunteer and work experience), and link to your GitHub (or similar) projects
