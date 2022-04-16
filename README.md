@@ -102,6 +102,33 @@ Azure Free Account: https://azure.microsoft.com/en-us/free/
 - Microsoft Azure Administrator Certification (AZ-104)
   - [FreeCodeCamp](https://www.youtube.com/watch?v=10PbGbTUSAg)
 
+#### Offensive (Hacking) and Defensive Security Related Certifications
+
+- Web Application Penetration Testing
+  - [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification) ($99)
+    - [Portswigger's Web Academy](https://portswigger.net/web-security) (Free)
+  - [eLearnSecurity's Web Application Penetration Tester](https://elearnsecurity.com/product/ewpt-certification/) ($400)
+    - [INE's Training](https://ine.com/learning/courses/web-application-penetration-testing) (Premium (includes labs) costs $750/year - look for discounts for $250 off)
+    - You could also look at the [OWASP Testing Guide (Free)](https://owasp.org/www-project-web-security-testing-guide/latest/) paired with labs from Hack The Box or Try Hack Me (low cost) - TODO: find list of labs  
+  -  [SANS GIAC Web Application Penetration Tester](https://www.giac.org/certifications/web-application-penetration-tester-gwapt/) ($2,500)
+    -  Training: todo
+  -  [Offensive Security OSWE](https://www.offensive-security.com/awae-oswe/) ($1,649 to $2,499, includes training)
+- Network Penetration Testing
+  - [TCM Security: Practical Network Penetration Tester (PNPT) Certification ($299)](https://certifications.tcm-sec.com/)
+    - [TCM Academy ($30/month) or purchase individual courses](https://academy.tcm-sec.com/courses)
+  - [eLearnSecurity Certified Professional Penetration Tester (CPPTv2)](https://elearnsecurity.com/product/ecpptv2-certification/) ($400)
+    - [INE's Training](https://ine.com/learning/paths/penetration-testing-professional) (Premium (includes labs) costs $750/year - look for discounts for $250 off)
+  - [EC-Council: Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) ($ TODO)
+    - Training (todo)
+  - [Offensive Security OSCP](https://www.offensive-security.com/pwk-oscp/) ($2,500, includes training)
+  - [SANS GIAC Penetration Tester (GPEN)](https://www.giac.org/certifications/penetration-tester-gpen/) ($2,500)
+- Building a resume based on practical labs, but without a specific certification. Some have badges or "owned" boxes to highlight. (Low cost monthly fee)
+  - https://www.pentesteracademy.com/topics
+  - Hack The Box
+    - [HTB Academy](https://academy.hackthebox.com/)
+    - [Hacking Labs](https://www.hackthebox.com/hacker/hacking-labs)
+  - [Try Hack Me](https://tryhackme.com/hacktivities)
+
 ## Applying For Jobs
 ### Before Applying For a Job
 1. Create a LinkedIn Profile and showcase your certifications, experience (volunteer and work experience), and link to your GitHub (or similar) projects
