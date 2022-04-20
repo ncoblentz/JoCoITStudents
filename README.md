@@ -25,11 +25,11 @@ Where to start is influenced by whether you are a current high versus college st
 
 To get a job as a high school graduate, it's going to be critically important that you grow in maturity (think attitude, punctuality, reliability, professionalism, ability to manage time well, meeting deadlines, etc.) as well as have some kind of external demonstration of skill and experience. While pursuing your high school courses, you should focus on gaining entry-level certifications and working or volunteering in the field you plan to pursue. 
 
-Once you are employed, continue to pursue more advanced certifications. Then, after gaining several years of experience (3 to 5 years), your options for employment greatly increase. You have an opportunity to move around to a more exciting specialty or a more desirable company. That doesn't mean you have to move companies however. Ideally, your current employer will recognize your valu and promote you. 
+Once you get that first job, continue to pursue more advanced certifications. Then, after gaining several years of experience (3 to 5 years), your options for employment greatly increase. You have an opportunity to move around to a more exciting specialty or a more desirable company. That doesn't mean you have to move companies however. Ideally, your current employer will recognize your value and promote you. 
 
 Without a college degree, you may hit road bumps. Some companies and HR departments struggle to interview even the most qualified candidate simply because he or she doesn't have a college degree. To over come that, join professional organizations and build a wide variety of friendships across companies. Later, when you might need to change employers, those individuals may be able to get past otherwise difficult to surmount HR filters and you likewise can help them.
 
-Alteratively, you can also pursue an associates or bachelors degree while working. Many employers have tuition reimbursement programs that will pay for your college (after the fact and often with a certain letter grade). This effectively allows you to start earning a salary, take on zero debt, and pursue that degree with a lot more real world experience and maturity.
+Alteratively, you can also pursue an associates or bachelors degree while working. Many employers have tuition reimbursement programs that will pay for your college (after the fact and often with a certain letter grade requirement). This effectively allows you to start earning a salary, take on zero debt, and pursue that degree with a lot more real world experience and maturity.
 
 The following sections are going to be helpful for you to dig into further:
 1. Explore entry-level positions in your desired field
@@ -38,16 +38,17 @@ The following sections are going to be helpful for you to dig into further:
 3. Join outside professional organizations
 
 ### High School Student Pursuing an Associates or Bachelors Degree
-If college is your next step as a high school student, you have a variety of options, including pursuing a Certificate or Associates degree at a community college as well as going to a four year college (either immediately or after community college). The strategy and decision around which to pick is beyond the scope of this document, except in identifying community colleges in the Johnson County, Kansas area and the specific features of those programs that may aid you in getting to the IT Career you choose. Let's start first by identifying opportunities at the high school level to gain college credit and pursue certifiations.
+If college is your next step as a high school student, you have a variety of options, including pursuing a Certificate or Associates degree at a community college as well as going to a four year college (either immediately or after community college). The strategy and decisions about which path to pick is beyond the scope of this document, except in identifying community colleges in the Johnson County, Kansas area and the specific features of those programs that may aid you in getting to the IT career you desire. Let's start first by identifying opportunities at the high school level to gain college credit and pursue certifiations.
 
 School districts in the Johnson County, KS area have a variety of ways to begin earning college credit while still in school. Those options include:
 - AP classes and testing for college credit
 - Dual credit classes
 - Testing out of classes (Credit by Examination) at the college level
 - Release to from high school to go take community college classes (some for free)
+- Agreements in which high school teachers teach college courses (like Shawnee Mission's Center for Academic Excellence or Olathe's 21st Century Academies)
 - Get high school and college credit for an internship
 
-Additionally, you may be interested in building up professional certifications and experience. Currently, no Johnson County, KS area high school programs and classes specifically line up with any IT related certifications that I'm aware of, so you would need to pursue those independently (more on this below). As far as work experience, siimlar to getting a job after high school, you will want to pursue internships or volunteer opportunities. However, often earning college credit and getting close to that finish line of earning adegree will be the higher priority.
+Additionally, you may be interested in building up professional certifications and experience. Currently, no Johnson County, KS area high school programs and classes (that I'm aware of) specifically line up with any IT related certifications, so you would need to pursue those independently (more on this below). As far as work experience, siimlar to getting a job after high school, you will want to pursue internships or volunteer opportunities. However, earning college credit and getting close to that finish line of earning a degree will often be the higher priority.
 
 The following sections are going to be helpful for you to dig into further:
 - While still in high school:
@@ -64,15 +65,12 @@ The following sections are going to be helpful for you to dig into further:
 ### Four Year College Student Goals
 
 
-### College 
 
+### Explore Careers and Entry-Level Positions
 
-### Explore Careers and Entry Level Positions
+The education, certifications, and job experience you seek should be informed by real actual jobs available in the geographic region you plan to work. Therefore, one of your first steps is to research those jobs through websites like LinkedIn, Google, Indeed, and others. Start by searching for the job you are interested in (in your desired geographic region). Next, look at the amount of education, experience, skills, and certifications required. Often, that desired first job will require considerably more experience than you have initially. So, your next step is to chart a path towards that job. What kind of experience does that future job require and is there another entry-level position (even though it may be less desirable) that provides you that experience and the opportunity to gain those additional skills? How many years experience do you need (how long at minimum should you stay in that entry-level position)? What other education and/or certifications should you pursue while in that entry-level position? Create a plan for getting to that future dream job. You are then going to then look for opportunities to meet those goals while in high school, college, and while at that first job.
 
-### Certification Alignment With Curricula
-
-But, how do you know which certifications, what kind of experience, and which projects to complete? First, go to job searching websites like LinkedIn, Google, Indeed, and more to search for the job you are interested in (and the geographic region you want to work in). Next, look at the amount of education, experience, skills, and certifications required. Often, that desired first job will require considerably more experience than you have initially. So, your next step is to chart a path towards that job. What kind of experience does that future job require and is there another entry-level position (even though it may be less desirable) that provides you that experience and opportunity to gain those additional skills? How many years experience do you need (how long at minimum should you stay in that entry-level position)? What other education and/or certification should you pursue in that entry-level position? Create a plan for getting to that future dream job.
-
+### College Programs
 The following sections list High School or College programs and the certifications that align with required classes. Your goal as a student is to take each exam related to the coursework the certification is aligned to. You may have to do additional study and hands-on activities to fully prepare you for the exam. Please contact the school to understand how closely the curricula fullfills the learning requirements towards that certification. 
 
 #### Johnson County Community College
