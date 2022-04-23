@@ -1,10 +1,10 @@
 **Undergoing re-organization and heavy modification**
 
-# Career Bound High School and College Information Technology Students
-## Purpose
-As a student, your end goal is not limited to getting good grades or getting into a good college. Instead, you are building skills and experience towards landing that first job that will lead to a life long career in the information technology sector. You may want to manage cloud infrastructure, write software or games, hack into networks and web applications, or create Internet of Things devices. To do that, you first have to be able to demonstrate to a potential employer that you should be interviewed - to get your foot into the door to be considered for that job. This resource is intended to complement the high school and college courses you are taking with recommendations of certifications to pursue based on real job descriptions in the Kansas City area.
+# Certification and Career Recommendations for Johnson County, KS High School and College IT Students
+**Purpose**
+As a student, your end goal is not limited to getting good grades or getting into a good college. Instead, you are building skills and experience towards landing that first job that will lead to a life long career in the information technology sector. You may want to manage cloud infrastructure, design data centers, write software or games, hack into networks and web applications, or create Internet of Things devices. To do that, you first have to be able to demonstrate to a potential employer that you should be interviewed - to get your foot into the door to be considered for that job. This resource is intended to complement the high school and college courses you are taking with recommendations of certifications to pursue based on real job descriptions in the Kansas City area.
 
-## Building Your Skills, Experience, and Earning Certifications
+**Building Your Skills, Experience, and Earning Certifications**
 When employers review a candidate's resume and cover letter, they are discerning whether the person meets the qualifications for the posted job and deciding who would most likely be successful in that organization and role. They are going to weigh the education, skills, and experience the candidate already brings to the table versus the amount of training (and time) it will take to get them fully functional in that role. You can make that decision easier for the employer by demonstrating your skills and experience through:
 1. Certifications
 2. Volunteer and work experience (at school, church, non-profit organizations, etc.)
@@ -14,7 +14,7 @@ More on certifications, projects, and displaying that work can be found within t
 
 ## Start Here
 ### Start From Where You Are
-Where to start is influenced by whether you are a current high versus college student AND your end goals for that immediate stage. 
+Where to start is influenced by whether you are a current high school versus college student AND your end goals for that immediate stage. 
 
 - I am a high school student and I plan to get a job without pursuing a college degree...
 - I am a high school student and I plan to pursue an associates or bachelors degree...
@@ -23,7 +23,7 @@ Where to start is influenced by whether you are a current high versus college st
 
 ### High School Student Pursuing a Job Without a College Degree
 
-To get a job as a high school graduate, it's going to be critically important that you grow in maturity (think attitude, punctuality, reliability, professionalism, ability to manage time well, meeting deadlines, etc.) as well as have some kind of external demonstration of skill and experience. While pursuing your high school courses, you should focus on gaining entry-level certifications and working or volunteering in the field you plan to pursue. 
+To get a job as a high school graduate, it's going to be critically important that you grow in maturity (attitude, punctuality, reliability, professionalism, ability to manage time well, meeting deadlines, etc.) as well as have some kind of external demonstration of skill and experience. While pursuing your high school courses, you should focus on gaining entry-level certifications and working or volunteering in the field you plan to pursue. 
 
 Once you get that first job, continue to pursue more advanced certifications. Then, after gaining several years of experience (3 to 5 years), your options for employment greatly increase. You have an opportunity to move around to a more exciting specialty or a more desirable company. That doesn't mean you have to move companies however. Ideally, your current employer will recognize your value and promote you. 
 
@@ -66,9 +66,16 @@ The following sections are going to be helpful for you to dig into further:
 
 
 
-### Explore Careers and Entry-Level Positions
+## Explore Careers and Entry-Level Positions
 
 The education, certifications, and job experience you seek should be informed by real actual jobs available in the geographic region you plan to work. Therefore, one of your first steps is to research those jobs through websites like LinkedIn, Google, Indeed, and others. Start by searching for the job you are interested in (in your desired geographic region). Next, look at the amount of education, experience, skills, and certifications required. Often, that desired first job will require considerably more experience than you have initially. So, your next step is to chart a path towards that job. What kind of experience does that future job require and is there another entry-level position (even though it may be less desirable) that provides you that experience and the opportunity to gain those additional skills? How many years experience do you need (how long at minimum should you stay in that entry-level position)? What other education and/or certifications should you pursue while in that entry-level position? Create a plan for getting to that future dream job. You are then going to then look for opportunities to meet those goals while in high school, college, and while at that first job.
+
+## Johnson County Kansas High School Programs
+### Olathe Public Schools
+**21st Century Academies**
+- [Programming and Software Development](https://sites.google.com/students.olatheschools.com/olathecareerpathways2022/prog-soft-dev-pathway)
+  - [Courses](https://www.olatheschools.org/Page/10932)
+- 
 
 ### College Programs
 The following sections list High School or College programs and the certifications that align with required classes. Your goal as a student is to take each exam related to the coursework the certification is aligned to. You may have to do additional study and hands-on activities to fully prepare you for the exam. Please contact the school to understand how closely the curricula fullfills the learning requirements towards that certification. 
