@@ -73,6 +73,8 @@ The education, certifications, and job experience you seek should be informed by
 ## Johnson County Kansas High School Programs
 
 ### Generally Available Options Through JCCC
+These options may be available to any Johnson County Public School students regardless of the school district they belong in. Check with your school and JCCC for details.
+
 **[JCCC Quick Step (Take JCCC Classes While in High School)](https://www.jccc.edu/admissions/early-college/quick-step/)**
   - [Special JCCC Quick Step Program Specifically For College Algebra](https://www.jccc.edu/admissions/early-college/quick-step-plus/)
 
@@ -112,10 +114,15 @@ Examples of IT Courses Observed:
 - WEB 128: PHP with MySQL
 - WEB 234: Web Apps I
 
+**College Credit Through an Assessment or Exam**
+- [AP Exams](https://apcentral.collegeboard.org/courses)
+- [JCCC Prior Learning Assessment](https://www.jccc.edu/student-resources/testing-centers/testing/pla/)
+- [JCCC CLEP](https://www.jccc.edu/student-resources/testing-centers/testing/pla/clep.html)
+
 ### Olathe Public Schools
 
-**[Programming and Software Development](https://sites.google.com/students.olatheschools.com/olathecareerpathways2022/prog-soft-dev-pathway)**
-- [Courses](https://www.olatheschools.org/Page/10932) include AP Computer Science, Programming, Web Design, and Cybersecurity
+**[CTE Pathway: Programming and Software Development](https://sites.google.com/students.olatheschools.com/olathecareerpathways2022/prog-soft-dev-pathway)**
+- [Courses](https://www.olatheschools.org/Page/10932) includes AP Computer Science, Programming, Web Design, and Cybersecurity
 
 **[Dual Credit Courses/College Now](https://www.jccc.edu/admissions/early-college/high-school-concurrent-enrollment/schools-schedules/)**
 The list below highlights just computer science courses; however, each high school has a unique set of courses available including general education courses and career tech courses.
@@ -131,18 +138,67 @@ The list below highlights just computer science courses; however, each high scho
   - AP Computer Science Principles
 
 ### Shawnee Mission Public Schools
-**AP Courses**
-- [Shawnee Mission East](https://smeast.smsd.org/academics/advanced-placement-ap-classes)
-  - AP Computer Science A
+**[CTE Pathway: Programming and Software Development](https://www.smsd.org/academics/career-technical-education/smsd-cte-pathways/programming-software-development)**
+- [Courses](https://resources.finalsite.net/images/v1639492813/smsdorg/bgo7lpvn7c1kznx7necs/2022-2023HighSchoolProgramPlanningGuide.pdf) includes AP Computer Science, Programming, and Cybersecurity
 
+**Dual Credit Courses/College Now**
+The list below highlights just computer science courses; however, each high school has a unique set of courses available including general education courses and career tech courses.
+- No specific computer science courses
+
+**AP Courses**
+- AP Computer Science A
 
 ### Blue Valley Public Schools
+**[CTE Pathway: Programming and Software Development](https://www.bluevalleyk12.org/Page/35984)**
+- [Courses](https://www.bluevalleyk12.org/Page/34442) includes AP Computer Science, Programming, and Web Design
 
 **[Dual Credit Courses/College Now](https://www.jccc.edu/admissions/early-college/high-school-concurrent-enrollment/schools-schedules/)**
 The list below highlights just computer science courses; however, each high school has a unique set of courses available including general education courses and career tech courses.
 - JCCC: CS 134 Programming Fundamentals
   - Technology Solutions at __Blue Valley CAPS with Jill Riffer__ (Tuition Waived for Excel in CTE students)
- 
+
+**AP Courses**
+- AP Computer Science A
+- AP Computer Science Principles
+
+### Gardner-Edgerton Public Schools
+
+**Computer Science Courses](https://www.usd231.com/o/gardner-edgerton-hs/documents)**
+- Computer Science
+- Game Design and Project Management
+- Information Support/Chrome Book Repair
+
+### DeSoto Public Schools
+
+**[CTE Pathway: Programming and Software Development](https://www.usd232.org/Page/8950)**
+- [Courses](https://www.usd232.org/cms/lib/KS02213215/Centricity/Domain/4350/USD%20232%20Course%20Guide%202022%202023.pdf) includes AP Computer Science, Programming and Project Management, and Cybersecurity
+
+**Dual Credit Courses/College Now**
+The list below highlights just computer science courses; however, each high school has a unique set of courses available including general education courses and career tech courses.
+- No specific computer science courses
+
+**AP Courses**
+- AP Computer Science A
+
+### Gardner-Edgerton Public Schools
+
+**Computer Science Courses](https://www.usd231.com/o/gardner-edgerton-hs/documents)**
+- Computer Science
+- Game Design and Project Management
+- Information Support/Chrome Book Repair
+
+### Spring Hill Public Schools
+
+**[CTE Pathway: Programming and Software Development](https://drive.google.com/file/d/1drO0RReVJLL5xvzO2Pz_yM2CnEKFR2R4/view)**
+- [Courses](https://shhs.usd230.org/academics/courses) includes Programming I, II, and III
+
+**Dual Credit Courses/College Now**
+The list below highlights just computer science courses; however, each high school has a unique set of courses available including general education courses and career tech courses.
+- No specific computer science courses
+
+**AP Courses**
+- No computer science courses listed
+
 ### College Programs
 The following sections list High School or College programs and the certifications that align with required classes. Your goal as a student is to take each exam related to the coursework the certification is aligned to. You may have to do additional study and hands-on activities to fully prepare you for the exam. Please contact the school to understand how closely the curricula fullfills the learning requirements towards that certification. 
 
