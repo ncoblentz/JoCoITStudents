@@ -71,12 +71,78 @@ The following sections are going to be helpful for you to dig into further:
 The education, certifications, and job experience you seek should be informed by real actual jobs available in the geographic region you plan to work. Therefore, one of your first steps is to research those jobs through websites like LinkedIn, Google, Indeed, and others. Start by searching for the job you are interested in (in your desired geographic region). Next, look at the amount of education, experience, skills, and certifications required. Often, that desired first job will require considerably more experience than you have initially. So, your next step is to chart a path towards that job. What kind of experience does that future job require and is there another entry-level position (even though it may be less desirable) that provides you that experience and the opportunity to gain those additional skills? How many years experience do you need (how long at minimum should you stay in that entry-level position)? What other education and/or certifications should you pursue while in that entry-level position? Create a plan for getting to that future dream job. You are then going to then look for opportunities to meet those goals while in high school, college, and while at that first job.
 
 ## Johnson County Kansas High School Programs
-### Olathe Public Schools
-**21st Century Academies**
-- [Programming and Software Development](https://sites.google.com/students.olatheschools.com/olathecareerpathways2022/prog-soft-dev-pathway)
-  - [Courses](https://www.olatheschools.org/Page/10932)
-- 
 
+### Generally Available Options Through JCCC
+**[JCCC Quick Step (Take JCCC Classes While in High School)](https://www.jccc.edu/admissions/early-college/quick-step/)**
+  - [Special JCCC Quick Step Program Specifically For College Algebra](https://www.jccc.edu/admissions/early-college/quick-step-plus/)
+
+**[Excel in CTE (Free Tuition for Johnson County Students) Classes at JCCC](https://reg-prod.ec.jccc.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search)**
+Visit this page, select your term, in the "Attribute" field choose "SB 155 Excel in CTE"
+Todo: Can anyone enroll in any course or is it specific to each high school?
+Examples of IT Courses Observed:
+- CS 134: Programming Fundamentals
+- CS 200: Concepts/Prog Algorithms C++
+- CS 201: Concepts/Prog Algorithms C#
+- CS 202: Concepts/Prog Algs Python
+- CS 205: Concepts/Prog Algorithms Java
+- CS 210: Discrete Structures I
+- CS 211: Discrete Structures II
+- CS 235: Object-Oriented Program/C++
+- CS 236: Object-Oriented Program/C++
+- CS 250: Basic Data Structures/C++
+- CS 255: Basic Data Structures/C++
+- ELEC 186: CompTIA A+ Essentials
+- IT 120: A+ Practical Applications
+- IT 141: Introduction to Networks
+- IT 150: Switch, Rout & Wireless Essentials
+- IT 175: Cybersecurity Fundamentals
+- IT 202: IT Scripting
+- IT 204: Enterprise Network??? lookup
+- IT 206: Network Security Fundamentals
+- IT 223: Azure Administration
+- IT 224: Modern Desktop Administrator
+- IT 240: Linux Fundamentals
+- IT 238: Digital Forensics
+- IT 239: Ethical Hacking
+- IT 257: Cybersecurity Operations
+- IT 272: Informatino Technology Internship II
+- WEB 110: HTML and CSS
+- WEB 114: Web Scripting: JavaScript I
+- WEB 124: Web Scripting: JavaScript II
+- WEB 128: PHP with MySQL
+- WEB 234: Web Apps I
+
+### Olathe Public Schools
+
+**[Programming and Software Development](https://sites.google.com/students.olatheschools.com/olathecareerpathways2022/prog-soft-dev-pathway)**
+- [Courses](https://www.olatheschools.org/Page/10932) include AP Computer Science, Programming, Web Design, and Cybersecurity
+
+**[Dual Credit Courses/College Now](https://www.jccc.edu/admissions/early-college/high-school-concurrent-enrollment/schools-schedules/)**
+The list below highlights just computer science courses; however, each high school has a unique set of courses available including general education courses and career tech courses.
+- JCCC: CS 134 Programming Fundamentals
+  - Introduction to Computer Coding at __Olathe North West High School with Lisa Whallon__ (Tuition Waived for Excel in CTE students)  
+- JCCC: CS 200 Concepts/Prog Algorithms
+  - C++ Computer Programming II at __Olathe North West High School with Lisa Whallon__ (Tuition Waived for Excel in CTE students)
+
+**AP Courses**
+- [District Page](https://www.olatheschools.org/Page/2481)
+- [More Specific 2022-2023 Planning Guide](https://www.olatheschools.org/cms/lib/KS01907024/Centricity/Domain/1181/2022-23-High-School-Program-Planning-Guide-113021.pdf)
+  - AP Computer Science A
+  - AP Computer Science Principles
+
+### Shawnee Mission Public Schools
+**AP Courses**
+- [Shawnee Mission East](https://smeast.smsd.org/academics/advanced-placement-ap-classes)
+  - AP Computer Science A
+
+
+### Blue Valley Public Schools
+
+**[Dual Credit Courses/College Now](https://www.jccc.edu/admissions/early-college/high-school-concurrent-enrollment/schools-schedules/)**
+The list below highlights just computer science courses; however, each high school has a unique set of courses available including general education courses and career tech courses.
+- JCCC: CS 134 Programming Fundamentals
+  - Technology Solutions at __Blue Valley CAPS with Jill Riffer__ (Tuition Waived for Excel in CTE students)
+ 
 ### College Programs
 The following sections list High School or College programs and the certifications that align with required classes. Your goal as a student is to take each exam related to the coursework the certification is aligned to. You may have to do additional study and hands-on activities to fully prepare you for the exam. Please contact the school to understand how closely the curricula fullfills the learning requirements towards that certification. 
 
