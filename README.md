@@ -378,7 +378,7 @@ Find a company you are excited about and don't be afraid to reach out on LinkedI
 #### Microcenter
 - Go to: https://www.microcenter.com/site/stores/employment.aspx
   - Company Location: Overland Park
-- [Example Garmin Jobs](/Entry-Level%20Examples/Microcenter/)
+- [Example Jobs](/Entry-Level%20Examples/Microcenter/)
   - Requirements: High School Diploma and A+ Certification
 
 #### Cerner
@@ -386,13 +386,13 @@ Find a company you are excited about and don't be afraid to reach out on LinkedI
   - Career Path: Early Careers
   - Add your Zip Code
   - Choose the appropriate Distance
-- [Example Cerner Jobs](/Entry-Level%20Examples/Cerner/)
+- [Example Jobs](/Entry-Level%20Examples/Cerner/)
   - Generally requires a bachelors degree or equivalent work experience
  
 #### Garmin
 - Go to: https://careers-us.garmin.com/us/en/entry-level-jobs
   - City: Olathe
-- [Example Garmin Jobs](/Entry-Level%20Examples/Garmin/)
+- [Example Jobs](/Entry-Level%20Examples/Garmin/)
   - Generally requires an associates or bachelors degree or equivalent work experience
   - Exceptions
     - Quality Tester requires a high school diploma, but desires an associates degree
