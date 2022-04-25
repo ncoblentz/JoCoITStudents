@@ -72,16 +72,26 @@ The education, certifications, and job experience you seek should be informed by
 
 ## Johnson County Kansas High School Programs
 
+|Student/School|Excel in CTE|AP Exams|CLEP|JCCC Prior Learning Assessment|JCCC Quick Step|CTE Pathway: Programming and Software Development|Dual Credit CS 134|Dual Credit CS 200|AP Computer Science A|AP Computer Science Principles|CyberPatriots Club|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Kansas|✔️|✔️|✔️|✔️|✔️|||||||
+|Olathe|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|
+|Shawnee-Mission|✔️|✔️|✔️|✔️|✔️|✔️|||✔️|||
+|Blue Valley|✔️|✔️|✔️|✔️|✔️|✔️|✔️||✔️|✔️|✔️|
+|Spring Hill|✔️|✔️|✔️|✔️|✔️|✔️||||||
+|Gardner-Edgerton|✔️|✔️|✔️|✔️|✔️|||||||
+|DeSoto|✔️|✔️|✔️|✔️|✔️|✔️|||✔️|||
+
 ### Generally Available Options Through JCCC
 These options may be available to any Johnson County Public School students regardless of the school district they belong in. Check with your school and JCCC for details.
 
 **[JCCC Quick Step (Take JCCC Classes While in High School)](https://www.jccc.edu/admissions/early-college/quick-step/)**
   - [Special JCCC Quick Step Program Specifically For College Algebra](https://www.jccc.edu/admissions/early-college/quick-step-plus/)
 
-**[Excel in CTE (Free Tuition for Johnson County Students) Classes at JCCC](https://reg-prod.ec.jccc.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search)**
+**[Excel in CTE (Free Tuition for CTE Related College Courses) Classes at JCCC](https://reg-prod.ec.jccc.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search)**
 Visit this page, select your term, in the "Attribute" field choose "SB 155 Excel in CTE"
-Todo: Can anyone enroll in any course or is it specific to each high school?
-Examples of IT Courses Observed:
+
+Examples of JCCC IT Courses Observed:
 - CS 134: Programming Fundamentals
 - CS 200: Concepts/Prog Algorithms C++
 - CS 201: Concepts/Prog Algorithms C#
@@ -117,12 +127,12 @@ Examples of IT Courses Observed:
 **College Credit Through an Assessment or Exam**
 - [AP Exams](https://apcentral.collegeboard.org/courses)
 - [JCCC Prior Learning Assessment](https://www.jccc.edu/student-resources/testing-centers/testing/pla/)
-- [JCCC CLEP](https://www.jccc.edu/student-resources/testing-centers/testing/pla/clep.html)
+- [CLEP](https://www.jccc.edu/student-resources/testing-centers/testing/pla/clep.html)
 
 ### Olathe Public Schools
 
 **[CTE Pathway: Programming and Software Development](https://sites.google.com/students.olatheschools.com/olathecareerpathways2022/prog-soft-dev-pathway)**
-- [Courses](https://www.olatheschools.org/Page/10932) includes AP Computer Science, Programming, Web Design, and Cybersecurity
+- [Courses](https://www.olatheschools.org/Page/10932) include: AP Computer Science, Programming, Web Design, and Cybersecurity
 
 **[Dual Credit Courses/College Now](https://www.jccc.edu/admissions/early-college/high-school-concurrent-enrollment/schools-schedules/)**
 The list below highlights just computer science courses; however, each high school has a unique set of courses available including general education courses and career tech courses.
@@ -139,7 +149,7 @@ The list below highlights just computer science courses; however, each high scho
 
 ### Shawnee Mission Public Schools
 **[CTE Pathway: Programming and Software Development](https://www.smsd.org/academics/career-technical-education/smsd-cte-pathways/programming-software-development)**
-- [Courses](https://resources.finalsite.net/images/v1639492813/smsdorg/bgo7lpvn7c1kznx7necs/2022-2023HighSchoolProgramPlanningGuide.pdf) includes AP Computer Science, Programming, and Cybersecurity
+- [Courses](https://resources.finalsite.net/images/v1639492813/smsdorg/bgo7lpvn7c1kznx7necs/2022-2023HighSchoolProgramPlanningGuide.pdf) include: AP Computer Science, Programming, and Cybersecurity
 
 **Dual Credit Courses/College Now**
 The list below highlights just computer science courses; however, each high school has a unique set of courses available including general education courses and career tech courses.
@@ -150,7 +160,7 @@ The list below highlights just computer science courses; however, each high scho
 
 ### Blue Valley Public Schools
 **[CTE Pathway: Programming and Software Development](https://www.bluevalleyk12.org/Page/35984)**
-- [Courses](https://www.bluevalleyk12.org/Page/34442) includes AP Computer Science, Programming, and Web Design
+- [Courses](https://www.bluevalleyk12.org/Page/34442) include: AP Computer Science, Programming, and Web Design
 
 **[Dual Credit Courses/College Now](https://www.jccc.edu/admissions/early-college/high-school-concurrent-enrollment/schools-schedules/)**
 The list below highlights just computer science courses; however, each high school has a unique set of courses available including general education courses and career tech courses.
@@ -171,7 +181,7 @@ The list below highlights just computer science courses; however, each high scho
 ### DeSoto Public Schools
 
 **[CTE Pathway: Programming and Software Development](https://www.usd232.org/Page/8950)**
-- [Courses](https://www.usd232.org/cms/lib/KS02213215/Centricity/Domain/4350/USD%20232%20Course%20Guide%202022%202023.pdf) includes AP Computer Science, Programming and Project Management, and Cybersecurity
+- [Courses](https://www.usd232.org/cms/lib/KS02213215/Centricity/Domain/4350/USD%20232%20Course%20Guide%202022%202023.pdf) include: AP Computer Science, Programming and Project Management, and Cybersecurity
 
 **Dual Credit Courses/College Now**
 The list below highlights just computer science courses; however, each high school has a unique set of courses available including general education courses and career tech courses.
@@ -182,7 +192,7 @@ The list below highlights just computer science courses; however, each high scho
 
 ### Gardner-Edgerton Public Schools
 
-**Computer Science Courses](https://www.usd231.com/o/gardner-edgerton-hs/documents)**
+**[Computer Science Courses](https://www.usd231.com/o/gardner-edgerton-hs/documents)**
 - Computer Science
 - Game Design and Project Management
 - Information Support/Chrome Book Repair
@@ -190,7 +200,7 @@ The list below highlights just computer science courses; however, each high scho
 ### Spring Hill Public Schools
 
 **[CTE Pathway: Programming and Software Development](https://drive.google.com/file/d/1drO0RReVJLL5xvzO2Pz_yM2CnEKFR2R4/view)**
-- [Courses](https://shhs.usd230.org/academics/courses) includes Programming I, II, and III
+- [Courses](https://shhs.usd230.org/academics/courses) include: Programming I, II, and III
 
 **Dual Credit Courses/College Now**
 The list below highlights just computer science courses; however, each high school has a unique set of courses available including general education courses and career tech courses.
@@ -209,16 +219,9 @@ Course Catalog:
 
 |Program|A+|Linux+|Network+|Security+|Pentest+|PCEP|Cisco CNA|Cisco CyberOps Associate|Microsoft MD-101 Managing Modern Desktops|Microsoft MS-900 365 Fundamentals|Microsoft AZ-900 Azure Fundamentals|Microsoft AZ-104 Azure Administrator|Associate VMWare Data Center Virtualization|Google Associate Cloud Engineer|AWS Cloud Practicioner|AWS SysOps Administrator|LPIC-1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Certificate: Cloud|X|X|X|||||||X|X|X|X|X|X|X|X*|
-|[Certificate: Cybersecurity](https://catalog.jccc.edu/degreecertificates/informationtechnology/cybersecurity-cert/)|X|X|X|X|X|X||X||X|X||||||X|
-|[Associate: Networking](https://catalog.jccc.edu/degreecertificates/informationtechnology/information-technology-networking-aas/)|X|X|X|X|X|X|X|X|X|X|X|X|||||X|
-|[Associate: CIS with Emphasis in Information Systems Technology](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/informationsystemstech-as/)<br/>Seeking alignment information||||||||||||||||||
-|[Associate: CIS](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-info-systems-aas/)<br/>Seeking alignment information||||||||||||||||||
-|[Certificate: CIS - Software Developer](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/software-developer-cert/)<br/>Seeking alignment information||||||||||||||||||
-|[Associate: Computer Support Specialist](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-specialist-aas/)<br/>Seeking alignment information||||||||||||||||||
-|[Certificate: Computer Support Specialist A+](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-specialist-a-cert/)<br/>Seeking alignment information||||||||||||||||||
-|[Certificate: Computer Support Specialist Networking+/Security+](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-networking-security-cert/)<br/>Seeking alignment information||||||||||||||||||
-|[Certificate: Data Analytics](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/dataanalyticscert/index.html)<br/>Seeking alignment information||||||||||||||||||
+|Certificate: Cloud|✔️|✔️|✔️|||||||✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️*|
+|[Certificate: Cybersecurity](https://catalog.jccc.edu/degreecertificates/informationtechnology/cybersecurity-cert/)|✔️|✔️|✔️|✔️|✔️|✔️||✔️||✔️|✔️||||||✔️|
+|[Associate: Networking](https://catalog.jccc.edu/degreecertificates/informationtechnology/information-technology-networking-aas/)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||||✔️|
 
 * Indicates there are additional JCCC courses needed to pursue this certification
 
