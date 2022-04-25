@@ -371,12 +371,25 @@ There's a big list here: https://www.kansascityusergroups.com/ in addition to th
 The education, certifications, and job experience you seek should be informed by real actual jobs available in the geographic region you plan to work. Therefore, one of your first steps is to research those jobs through websites like LinkedIn, Google, Indeed, and others. Start by searching for the job you are interested in (in your desired geographic region). Next, look at the amount of education, experience, skills, and certifications required. Often, that desired first job will require considerably more experience than you have initially. So, your next step is to chart a path towards that job. What kind of experience does that future job require and is there another entry-level position (even though it may be less desirable) that provides you that experience and the opportunity to gain those additional skills? How many years experience do you need (how long at minimum should you stay in that entry-level position)? What other education and/or certifications should you pursue while in that entry-level position? Create a plan for getting to that future dream job. You are then going to then look for opportunities to meet those goals while in high school, college, and while at that first job.
 
 ### Example Kansas City Area Entry-Level IT Jobs
+
+#### Choose Your Own Adventure
+Find a company you are excited about and don't be afraid to reach out on LinkedIn or contact someone directly. Being bold may be just what you need to get an interview. Write a letter highlighting why you would be a good fit and the experience and qualifications you bring. Include your resume with that letter.
+
 #### Cerner
 - Go to: https://careers.cerner.com/Search and filter jobs for:
   - Career Path: Early Careers
   - Add your Zip Code
   - Choose the appropriate Distance
 - [Example Cerner Jobs](/Entry-Level%20Examples/Cerner/)
+  - Generally requires a bachelors degree or equivalent work experience
+ 
+#### Garmin
+- Go to: https://careers-us.garmin.com/us/en/entry-level-jobs
+  - City: Olathe
+- [Example Garmin Jobs](/Entry-Level%20Examples/Garmin/)
+  - Generally requires an associates or bachelors degree or equivalent work experience
+  - Exceptions
+    - Quality Tester requires a high school diploma, but desires an associates degree
 
 ## Applying For Jobs
 Before Applying For a Job, help employers find you and evaluate your education, skills, experience, and certifications by:
