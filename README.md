@@ -375,6 +375,12 @@ The education, certifications, and job experience you seek should be informed by
 #### Choose Your Own Adventure
 Find a company you are excited about and don't be afraid to reach out on LinkedIn or contact someone directly. Being bold may be just what you need to get an interview. Write a letter highlighting why you would be a good fit and the experience and qualifications you bring. Include your resume with that letter.
 
+#### Microcenter
+- Go to: https://www.microcenter.com/site/stores/employment.aspx
+  - Company Location: Overland Park
+- [Example Garmin Jobs](/Entry-Level%20Examples/Microcenter/)
+  - Requirements: High School Diploma and A+ Certification
+
 #### Cerner
 - Go to: https://careers.cerner.com/Search and filter jobs for:
   - Career Path: Early Careers
@@ -390,7 +396,6 @@ Find a company you are excited about and don't be afraid to reach out on LinkedI
   - Generally requires an associates or bachelors degree or equivalent work experience
   - Exceptions
     - Quality Tester requires a high school diploma, but desires an associates degree
-
 ## Applying For Jobs
 Before Applying For a Job, help employers find you and evaluate your education, skills, experience, and certifications by:
 1. Create a LinkedIn Profile and showcase your certifications, experience (volunteer and work experience), and link to your GitHub (or similar) projects
