@@ -18,10 +18,9 @@ More on certifications, projects, and displaying that work can be found within t
 
 Your journey begins now... Are you a current high school student or are you a college student? How much education do you want to puruse? What kind of job do you want to get in the IT field? Begin with the statements below that best match your situation (or explore all of them): 
 
-- I am a high school student and I plan to seek a job without pursuing a college degree...
-- I am a high school student and I plan to pursue an associates or bachelors degree...
-- I am a community college student...
-- I am a student at a four year college...
+- [I am a high school student and I plan to seek a job without pursuing a college degree...](#high-school-student-seeking-a-job-without-a-college-degree)
+- [I am a high school student and I plan to pursue an associates or bachelors degree...](#high-school-student-pursuing-an-associates-or-bachelors-degree)
+- [I am a current college student...](#college-student)
 
 ### High School Student Seeking a Job Without a College Degree
 
@@ -34,8 +33,8 @@ Without a college degree, you may hit road bumps. Some companies and HR departme
 Alteratively, you can also pursue an associates or bachelors degree while working. Many employers have tuition reimbursement programs that will pay for your college (after the fact and often with a certain letter grade requirement). This effectively allows you to start earning a salary, take on zero debt, and pursue that degree with a lot more real world experience and maturity.
 
 The following sections are going to be helpful for you to dig into further:
-1. Explore entry-level positions in your desired field
-1. Pursue cerifications while in high school (and after getting that entry-level position)
+1. [Explore entry-level positions in your desired field](#explore-careers-and-entry-level-positions)
+1. [Pursue cerifications while in high school (and after getting that entry-level position)](#certifications)
 2. Get internships, apprenticeships, or volunteering in the field you plan to work
 3. Join outside professional organizations
 
@@ -43,53 +42,64 @@ The following sections are going to be helpful for you to dig into further:
 If college is your next step as a high school student, you have a variety of options, including pursuing a Certificate or Associates degree at a community college as well as going to a four year college (either immediately or after community college). The strategy and decisions about which path to pick is beyond the scope of this document, except in identifying community colleges in the Johnson County, Kansas area and the specific features of those programs that may aid you in getting to the IT career you desire. Let's start first by identifying opportunities at the high school level to gain college credit and pursue certifiations.
 
 School districts in the Johnson County, KS area have a variety of ways to begin earning college credit while still in school. Those options include:
-- AP classes and testing for college credit
-- Dual credit classes
-- Testing out of classes (Credit by Examination) at the college level
-- Release to from high school to go take community college classes (some for free)
-- Agreements in which high school teachers teach college courses (like Shawnee Mission's Center for Academic Excellence or Olathe's 21st Century Academies)
-- Get high school and college credit for an internship
+- [AP classes and testing for college credit](#johnson-county-kansas-high-school-programs)
+- [Dual credit classes](#johnson-county-kansas-high-school-programs)
+- [Testing out of classes (Credit by Examination) at the college level](#johnson-county-kansas-high-school-programs)
+- [Excel in CTE (Free CTE Related College Courses and Credit)](#johnson-county-kansas-high-school-programs)
+- Get high school and college credit for an internship or apprenticeship
 
 Additionally, you may be interested in building up professional certifications and experience. Currently, no Johnson County, KS area high school programs and classes (that I'm aware of) specifically line up with any IT related certifications, so you would need to pursue those independently (more on this below). As far as work experience, siimlar to getting a job after high school, you will want to pursue internships or volunteer opportunities. However, earning college credit and getting close to that finish line of earning a degree will often be the higher priority.
 
 The following sections are going to be helpful for you to dig into further:
 - While still in high school:
-  1. Explore entry-level positions in your desired field
-  2. Considering programs available at area school districts and high schools
-  3. Earning college credit while in high school
+  1. [Explore entry-level positions in your desired field](#explore-careers-and-entry-level-positions)
+  2. [Considering programs available at area school districts and high schools](#johnson-county-kansas-high-school-programs)
+  3. [Earning college credit while in high school](#johnson-county-kansas-high-school-programs)
 - When planning for college:
   1. Consider programs available at area colleges
-  1. Pursue cerifications while in college
+  1. [Pursue cerifications while in college](#certifications)
   2. Get internships, apprenticeships, or volunteering in the field you plan to work
 
 
-### Community College Student Goals
-### Four Year College Student Goals
+### College Student
+- Efficiency
+  - Take tests to get college credit: CLEP
+  - Maximize less expensive tuition at community colleges, perhaps save money by living at home with parents
+  - College credit through internship or apprenticeship programs
+  - Join campus clubs
+- Marketability 
+  - Many other college students are going to graduate with the same degree and similar grades as you. How will you stand out?
+    - Goes back to certifications, work experience, demonstrable projects
+- community college -> career
+  - Associates, Certificates, Certifications, Experience
+- community college -> bachelors
+  - Transferable college credit, Certifications if aligned
 
+JCCC
 
+- [JCCC Cybersecurity Club](https://jccc.campuslabs.com/engage/organization/cybersecurityclub)
+- [Computer Club](https://jccc.campuslabs.com/engage/organization/computerclub/events?showpastevents=true)
 
 ## Johnson County Kansas High School Programs
 
-|Student/School|Excel in CTE|AP Exams|CLEP|JCCC Prior Learning Assessment|JCCC Quick Step|CTE Pathway: Programming and Software Development|Dual Credit CS 134|Dual Credit CS 200|AP Computer Science A|AP Computer Science Principles|CyberPatriots Club|
+|Student/School|[Excel in CTE](#excel-in-cte)|[AP Exams](#college-credit-through-an-assessment-or-exam)|[CLEP](#college-credit-through-an-assessment-or-exam)|[JCCC Prior Learning Assessment](#college-credit-through-an-assessment-or-exam)|[JCCC Quick Step](#jccc-quick-step)|CTE Pathway: Programming and Software Development|Dual Credit CS 134|Dual Credit CS 200|AP Computer Science A|AP Computer Science Principles|CyberPatriots Club|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |Kansas|✔️|✔️|✔️|✔️|✔️|||||||
-|Olathe|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|
-|Shawnee-Mission|✔️|✔️|✔️|✔️|✔️|✔️|||✔️|||
-|Blue Valley|✔️|✔️|✔️|✔️|✔️|✔️|✔️||✔️|✔️|✔️|
-|Spring Hill|✔️|✔️|✔️|✔️|✔️|✔️||||||
-|Gardner-Edgerton|✔️|✔️|✔️|✔️|✔️|||||||
-|DeSoto|✔️|✔️|✔️|✔️|✔️|✔️|||✔️|||
+|[Olathe](#olathe-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|
+|[Shawnee-Mission](#shawnee-mission-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️|||✔️|||
+|[Blue Valley](#blue-valley-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️|✔️||✔️|✔️|✔️|
+|[Spring Hill](#spring-hill-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️||||||
+|[Gardner-Edgerton](#gardner-edgerton-public-schools)|✔️|✔️|✔️|✔️|✔️|||||||
+|[DeSoto](#desoto-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️|||✔️|||
 
 ### Generally Available Options Through JCCC
 These options may be available to any Johnson County Public School students regardless of the school district they belong in. Check with your school and JCCC for details.
 
-**[JCCC Quick Step (Take JCCC Classes While in High School)](https://www.jccc.edu/admissions/early-college/quick-step/)**
-  - [Special JCCC Quick Step Program Specifically For College Algebra](https://www.jccc.edu/admissions/early-college/quick-step-plus/)
+#### [JCCC Quick Step](https://www.jccc.edu/admissions/early-college/quick-step/)
+Through this program, you can take JCCC Classes While in High School. There's also a [Special JCCC Quick Step Program Specifically For College Algebra](https://www.jccc.edu/admissions/early-college/quick-step-plus/).
 
-**[Excel in CTE (Free Tuition for CTE Related College Courses) Classes at JCCC](https://reg-prod.ec.jccc.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search)**
-Visit this page, select your term, in the "Attribute" field choose "SB 155 Excel in CTE"
-
-Examples of JCCC IT Courses Observed:
+#### [Excel in CTE](https://www.ksde.org/Agency/Division-of-Learning-Services/Career-Standards-and-Assessment-Services/CSAS-Home/Career-Technical-Education-CTE/Excel-in-CTE)
+Excel in CTE provides tuition free college courses towards specific career and technical education (CTE) programs. To see a list of [Excel in CTE Classes a Johnson County Community College](https://reg-prod.ec.jccc.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search), select your term, and in the "Attribute" field choose "SB 155 Excel in CTE". Examples of JCCC IT-related courses I've observed are:
 - CS 134: Programming Fundamentals
 - CS 200: Concepts/Prog Algorithms C++
 - CS 201: Concepts/Prog Algorithms C#
@@ -122,7 +132,7 @@ Examples of JCCC IT Courses Observed:
 - WEB 128: PHP with MySQL
 - WEB 234: Web Apps I
 
-**College Credit Through an Assessment or Exam**
+#### College Credit Through an Assessment or Exam
 - [AP Exams](https://apcentral.collegeboard.org/courses)
 - [JCCC Prior Learning Assessment](https://www.jccc.edu/student-resources/testing-centers/testing/pla/)
 - [CLEP](https://www.jccc.edu/student-resources/testing-centers/testing/pla/clep.html)
@@ -207,10 +217,10 @@ The list below highlights just computer science courses; however, each high scho
 **AP Courses**
 - No computer science courses listed
 
-### College Programs
+## College Programs
 The following sections list High School or College programs and the certifications that align with required classes. Your goal as a student is to take each exam related to the coursework the certification is aligned to. You may have to do additional study and hands-on activities to fully prepare you for the exam. Please contact the school to understand how closely the curricula fullfills the learning requirements towards that certification. 
 
-#### Johnson County Community College
+### Johnson County Community College
 Course Catalog:
 - https://catalog.jccc.edu/coursedescriptions/it/
 - https://catalog.jccc.edu/coursedescriptions/cis/
@@ -222,10 +232,6 @@ Course Catalog:
 |[Associate: Networking](https://catalog.jccc.edu/degreecertificates/informationtechnology/information-technology-networking-aas/)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||||✔️|
 
 * Indicates there are additional JCCC courses needed to pursue this certification
-
-#### [Olathe Computer Science Academy](https://www.olatheschools.org/Page/10578)
-- [Programming and Software Development Pathway](https://www.olatheschools.org/Page/10932)
-  - Todo
 
 
 ## Certifications
@@ -240,7 +246,7 @@ To select the right certifications, you first must know what kind of career you 
 
 The following sections list entry-level certifications and where possible, include free or low cost training options to prepare for those courses. For each option, It's recommended that you purchase a recently published (and officila if possible) book to make sure you've covered all the course material.
 
-### CompTia Certifications
+### CompTIA Certifications
 The following links provide a description of several CompTIA certifications and the types of jobs typically associated with those certifications:
 - https://www.comptia.org/faq/a/what-jobs-can-i-get-with-a-comptia-a-certification
 - https://www.comptia.org/faq/network/what-jobs-can-i-get-with-comptia-network-certification
