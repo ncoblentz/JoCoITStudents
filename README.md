@@ -372,9 +372,6 @@ The education, certifications, and job experience you seek should be informed by
 
 ### Example Kansas City Area Entry-Level IT Jobs
 
-#### Choose Your Own Adventure
-Find a company you are excited about and don't be afraid to reach out on LinkedIn or contact someone directly. Being bold may be just what you need to get an interview. Write a letter highlighting why you would be a good fit and the experience and qualifications you bring. Include your resume with that letter.
-
 #### Microcenter
 - Go to: https://www.microcenter.com/site/stores/employment.aspx
   - Company Location: Overland Park
@@ -396,6 +393,17 @@ Find a company you are excited about and don't be afraid to reach out on LinkedI
   - Generally requires an associates or bachelors degree or equivalent work experience
   - Exceptions
     - Quality Tester requires a high school diploma, but desires an associates degree
+
+#### Variety of Small and Large Businesses
+- [Example Jobs](/Entry-Level%20Examples/Variety/)
+  - There are many options that only require a high school diploma and/or certifications
+
+#### Get Bold
+Find a company you are excited about and don't be afraid to reach out on LinkedIn or contact someone directly. Being bold may be just what you need to get an interview. Write a letter highlighting why you would be a good fit and the experience and qualifications you bring. Include your resume with that letter.
+
+Another option is to start your own business, especially if you are the entrepreneur type and you are already doing work on the side. Grow that existing business and fund your own continued education and professional development.
+
+
 ## Applying For Jobs
 Before Applying For a Job, help employers find you and evaluate your education, skills, experience, and certifications by:
 1. Create a LinkedIn Profile and showcase your certifications, experience (volunteer and work experience), and link to your GitHub (or similar) projects
