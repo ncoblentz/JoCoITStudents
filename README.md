@@ -36,7 +36,8 @@ The following sections are going to be helpful for you to dig into further:
 1. [Explore entry-level positions in your desired field](#explore-careers-and-entry-level-positions)
 1. [Pursue cerifications while in high school (and after getting that entry-level position)](#certifications)
 2. Get internships, apprenticeships, or volunteering in the field you plan to work
-3. Join outside professional organizations
+3. [Join outside professional organizations](#kansas-city-area-professional-organizations-and-conferences)
+4. [Build your resume and LinkedIn Profile](#applying-for-jobs)
 
 ### High School Student Pursuing an Associates or Bachelors Degree
 If college is your next step as a high school student, you have a variety of options, including pursuing a Certificate or Associates degree at a community college as well as going to a four year college (either immediately or after community college). The strategy and decisions about which path to pick is beyond the scope of this document, except in identifying community colleges in the Johnson County, Kansas area and the specific features of those programs that may aid you in getting to the IT career you desire. Let's start first by identifying opportunities at the high school level to gain college credit and pursue certifiations.
@@ -62,6 +63,8 @@ The following sections are going to be helpful for you to dig into further:
 
 
 ### College Student
+Working on this section still...
+
 - Efficiency
   - Take tests to get college credit: CLEP
   - Maximize less expensive tuition at community colleges, perhaps save money by living at home with parents
@@ -75,10 +78,12 @@ The following sections are going to be helpful for you to dig into further:
 - community college -> bachelors
   - Transferable college credit, Certifications if aligned
 
-JCCC
-
-- [JCCC Cybersecurity Club](https://jccc.campuslabs.com/engage/organization/cybersecurityclub)
-- [Computer Club](https://jccc.campuslabs.com/engage/organization/computerclub/events?showpastevents=true)
+The following sections are going to be helpful for you to dig into further:
+1. [Explore entry-level positions in your desired field](#explore-careers-and-entry-level-positions)
+1. [Pursue cerifications while in college](#certifications)
+2. Get internships, apprenticeships, or volunteering in the field you plan to work
+3. [Join outside professional organizations](#kansas-city-area-professional-organizations-and-conferences)
+4. [Build your resume and LinkedIn Profile](#applying-for-jobs)
 
 ## Johnson County Kansas High School Programs
 
@@ -181,7 +186,7 @@ The list below highlights just computer science courses; however, each high scho
 
 ### Gardner-Edgerton Public Schools
 
-**Computer Science Courses](https://www.usd231.com/o/gardner-edgerton-hs/documents)**
+**[Computer Science Courses](https://www.usd231.com/o/gardner-edgerton-hs/documents)**
 - Computer Science
 - Game Design and Project Management
 - Information Support/Chrome Book Repair
@@ -218,21 +223,33 @@ The list below highlights just computer science courses; however, each high scho
 - No computer science courses listed
 
 ## College Programs
-The following sections list High School or College programs and the certifications that align with required classes. Your goal as a student is to take each exam related to the coursework the certification is aligned to. You may have to do additional study and hands-on activities to fully prepare you for the exam. Please contact the school to understand how closely the curricula fullfills the learning requirements towards that certification. 
 
 ### Johnson County Community College
-Course Catalog:
-- https://catalog.jccc.edu/coursedescriptions/it/
-- https://catalog.jccc.edu/coursedescriptions/cis/
+The following table lists the IT related programs available at Johnson County Community College, both certificates and associates degrees. The course work you pursue in these programs may align with industry standard certifications, requiring only a nominal amount of additional studying to pass those exams. The table below includes alignment information. Contact the school to understand how well each class prepares you for those certifications.
 
 |Program|A+|Linux+|Network+|Security+|Pentest+|PCEP|Cisco CNA|Cisco CyberOps Associate|Microsoft MD-101 Managing Modern Desktops|Microsoft MS-900 365 Fundamentals|Microsoft AZ-900 Azure Fundamentals|Microsoft AZ-104 Azure Administrator|Associate VMWare Data Center Virtualization|Google Associate Cloud Engineer|AWS Cloud Practicioner|AWS SysOps Administrator|LPIC-1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Certificate: Cloud|✔️|✔️|✔️|||||||✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️*|
-|[Certificate: Cybersecurity](https://catalog.jccc.edu/degreecertificates/informationtechnology/cybersecurity-cert/)|✔️|✔️|✔️|✔️|✔️|✔️||✔️||✔️|✔️||||||✔️|
-|[Associate: Networking](https://catalog.jccc.edu/degreecertificates/informationtechnology/information-technology-networking-aas/)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||||✔️|
+|[Certificate: Cybersecurity](https://catalog.jccc.edu/degreecertificates/informationtechnology/cybersecurity-cert/)|✔️*|✔️|✔️|✔️|✔️|✔️||✔️||✔️|✔️||||||✔️|
+|[Associate: Networking](https://catalog.jccc.edu/degreecertificates/informationtechnology/information-technology-networking-aas/)|✔️*|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||||✔️|
+|[Associate: Computer Support Specialist](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-specialist-aas/)|✔️||✔️|✔️||||||||||||||
+|[Certificate: Computer Support Specialist A+](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-specialist-a-cert/)|✔️|||||||||||||||||
+|[Certificate: Computer Support Specialist Network+/Security+](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-networking-security-cert/)|✔️||✔️|✔️||||||||||||||
+|[Certificate: Software Developer](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/software-developer-cert/)||||||||||||||||||
+|[Associates: Computer Information Systems](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/software-developer-cert/)||||||||||||||||||
+|[Associates: Emphasis in Information Systems Technology](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/informationsystemstech-as/)||||||||||||||||||
+|[Certificate: Data Analytics](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/dataanalyticscert/index.html)||||||||||||||||||
+|[Associates: Electronics Technology](https://catalog.jccc.edu/degreecertificates/electronicstechnology/electronics-technology-aas/)||||||||||||||||||
+|[Certificate: Electronics Technology](https://catalog.jccc.edu/degreecertificates/electronicstechnology/electronics-technology-certificate/)||||||||||||||||||
+|[Associates: Game Development](https://catalog.jccc.edu/degreecertificates/game/game-development-aas/)||||||||||||||||||
+|[Certificate: Game Development](https://catalog.jccc.edu/degreecertificates/game/game-development-aas/)||||||||||||||||||
+|[Associates: Emphasis in Health Information Systems](https://catalog.jccc.edu/degreecertificates/healthinformationsystems/emphasis-in-health-info-system/index.html)||||||||||||||||||
+|[Certificate: Health Information Systems Specialist](https://catalog.jccc.edu/degreecertificates/healthinformationsystems/health-info-systems-specialist-cert/index.html)||||||||||||||||||
 
-* Indicates there are additional JCCC courses needed to pursue this certification
 
+Johnson County Community College also has a few clubs you can get involved in related to those programs:
+- [JCCC Cybersecurity Club](https://jccc.campuslabs.com/engage/organization/cybersecurityclub)
+- [Computer Club](https://jccc.campuslabs.com/engage/organization/computerclub/events?showpastevents=true)
 
 ## Certifications
 
@@ -335,6 +352,20 @@ Another option is to build a resume based on practical labs you've completed. It
   - [Hacking Labs](https://www.hackthebox.com/hacker/hacking-labs) ($14 / month)
 - [Try Hack Me](https://tryhackme.com/hacktivities) (£8 / month)
 
+## Kansas City Area Professional Organizations and Conferences
+### Conferences
+- [Kansas City Developer Conference](https://www.kcdc.info/)
+- [BSidesKC](https://bsideskc.org/)
+
+### Profesional Organizations
+There's a big list here: https://www.kansascityusergroups.com/ in addition to those highlighted below.
+- [DevOpsKC](https://devopskc.com/)
+- [KC .NET Users Group](https://www.meetup.com/KC-NET-User-Group/)
+- [KC Java Users Group](https://www.meetup.com/KansasCityJUG/)
+- [ISSA-KC](https://www.kc.issa.org/)
+- [(ISC)2 KC](https://isc2kc.org/)
+- [Women in Security KC](https://www.wiskc.org/) - Also check the calendar on https://www.kansascityusergroups.com/
+
 ## Explore Careers and Entry-Level Positions
 
 The education, certifications, and job experience you seek should be informed by real actual jobs available in the geographic region you plan to work. Therefore, one of your first steps is to research those jobs through websites like LinkedIn, Google, Indeed, and others. Start by searching for the job you are interested in (in your desired geographic region). Next, look at the amount of education, experience, skills, and certifications required. Often, that desired first job will require considerably more experience than you have initially. So, your next step is to chart a path towards that job. What kind of experience does that future job require and is there another entry-level position (even though it may be less desirable) that provides you that experience and the opportunity to gain those additional skills? How many years experience do you need (how long at minimum should you stay in that entry-level position)? What other education and/or certifications should you pursue while in that entry-level position? Create a plan for getting to that future dream job. You are then going to then look for opportunities to meet those goals while in high school, college, and while at that first job.
@@ -352,8 +383,4 @@ Before Applying For a Job, help employers find you and evaluate your education, 
 1. Create a LinkedIn Profile and showcase your certifications, experience (volunteer and work experience), and link to your GitHub (or similar) projects
 2. Create a resume
 3. Create a cover letter explaining highlighting and summarizing your experience and qualifications to demonstrate how you stand out above other candidates
-
-
-
-
 
