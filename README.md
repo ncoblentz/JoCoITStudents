@@ -1,27 +1,29 @@
-**Undergoing re-organization and heavy modification**
-
 # Certification and Career Recommendations for Johnson County, KS High School and College IT Students
+
 **Purpose**
-As a student, your end goal is not limited to getting good grades or getting into a good college. Instead, you are building skills and experience towards landing that first job that will lead to a life long career in the information technology sector. You may want to manage cloud infrastructure, design data centers, write software or games, hack into networks and web applications, or create Internet of Things devices. To do that, you first have to be able to demonstrate to a potential employer that you should be interviewed - to get your foot into the door to be considered for that job. This resource is intended to complement the high school and college courses you are taking with recommendations of certifications to pursue based on real job descriptions in the Kansas City area.
+
+As a student, your end goal is not limited to getting good grades or getting into a good college. Instead, you are building skills and experience towards landing that first job that will lead to a life long career in the information technology sector. You may want to manage cloud infrastructure, design data centers, write software or games, hack into networks and web applications, or create Internet of Things devices. To do that, you first have to be able to demonstrate to a potential employer that you should be interviewed - to get your foot into the door to be considered for that job. This resource is intended to complement the high school and college courses you are taking with recommendations of certifications, professional experience, and/or college courses to pursue to increase your chances of getting interviewed for your desired career field based on real job descriptions in the Kansas City area.
 
 **Building Your Skills, Experience, and Earning Certifications**
+
 When employers review a candidate's resume and cover letter, they are discerning whether the person meets the qualifications for the posted job and deciding who would most likely be successful in that organization and role. They are going to weigh the education, skills, and experience the candidate already brings to the table versus the amount of training (and time) it will take to get them fully functional in that role. You can make that decision easier for the employer by demonstrating your skills and experience through:
 1. Certifications
 2. Volunteer and work experience (at school, church, non-profit organizations, etc.)
 3. Completed projects (whether for school or as a hobby) that the employer can access on Github and Youtube (or other similar sites)
+4. Education
 
 More on certifications, projects, and displaying that work can be found within this presentation: [Johnson County Community College: So you Want to be an Application Security Engineer?](https://www.youtube.com/watch?v=Ul6kdub0CuQ)
 
-## Start Here
-### Start From Where You Are
-Where to start is influenced by whether you are a current high school versus college student AND your end goals for that immediate stage. 
+## Start Where You Are
 
-- I am a high school student and I plan to get a job without pursuing a college degree...
+Your journey begins now... Are you a current high school student or are you a college student? How much education do you want to puruse? What kind of job do you want to get in the IT field? Begin with the statements below that best match your situation (or explore all of them): 
+
+- I am a high school student and I plan to seek a job without pursuing a college degree...
 - I am a high school student and I plan to pursue an associates or bachelors degree...
 - I am a community college student...
 - I am a student at a four year college...
 
-### High School Student Pursuing a Job Without a College Degree
+### High School Student Seeking a Job Without a College Degree
 
 To get a job as a high school graduate, it's going to be critically important that you grow in maturity (attitude, punctuality, reliability, professionalism, ability to manage time well, meeting deadlines, etc.) as well as have some kind of external demonstration of skill and experience. While pursuing your high school courses, you should focus on gaining entry-level certifications and working or volunteering in the field you plan to pursue. 
 
@@ -65,10 +67,6 @@ The following sections are going to be helpful for you to dig into further:
 ### Four Year College Student Goals
 
 
-
-## Explore Careers and Entry-Level Positions
-
-The education, certifications, and job experience you seek should be informed by real actual jobs available in the geographic region you plan to work. Therefore, one of your first steps is to research those jobs through websites like LinkedIn, Google, Indeed, and others. Start by searching for the job you are interested in (in your desired geographic region). Next, look at the amount of education, experience, skills, and certifications required. Often, that desired first job will require considerably more experience than you have initially. So, your next step is to chart a path towards that job. What kind of experience does that future job require and is there another entry-level position (even though it may be less desirable) that provides you that experience and the opportunity to gain those additional skills? How many years experience do you need (how long at minimum should you stay in that entry-level position)? What other education and/or certifications should you pursue while in that entry-level position? Create a plan for getting to that future dream job. You are then going to then look for opportunities to meet those goals while in high school, college, and while at that first job.
 
 ## Johnson County Kansas High School Programs
 
@@ -230,10 +228,19 @@ Course Catalog:
   - Todo
 
 
-### Certification Selection
-To select the right certifications, you first must know what kind of career you would like to pursue. Then, you should consider entry-level job listings and the certifications they list as "required" and "desired". You want to stand out above the other candidates, so the more of those "required" and "desired" qualifications you can check, the better chance you have at being considered for that job. Additionally, the course work you pursue in high school and college will often be aligned to industry standard certifications - which might require only a nominal amount of additional studying to prepare you for and pass those exams. 
+## Certifications
 
-#### CompTia Certifications
+To select the right certifications, you first must know what kind of career you would like to pursue. Then, you should consider entry-level job listings and the certifications they list as "required" and "desired". You want to stand out above the other candidates, so the more of those "required" and "desired" qualifications you can check, the better chance you have at being considered for that job. Additionally, the course work you pursue in high school and college will often be aligned to industry standard certifications - which might require only a nominal amount of additional studying to prepare you for and pass those exams. The table below shows an example of courses at Johnson County Community Colelge that align.
+
+|Program|A+|Linux+|Network+|Security+|Pentest+|PCEP|Cisco CNA|Cisco CyberOps Associate|Microsoft MD-101 Managing Modern Desktops|Microsoft MS-900 365 Fundamentals|Microsoft AZ-900 Azure Fundamentals|Microsoft AZ-104 Azure Administrator|Associate VMWare Data Center Virtualization|Google Associate Cloud Engineer|AWS Cloud Practicioner|AWS SysOps Administrator|LPIC-1|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Certificate: Cloud|✔️|✔️|✔️|||||||✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️*|
+|[Certificate: Cybersecurity](https://catalog.jccc.edu/degreecertificates/informationtechnology/cybersecurity-cert/)|✔️|✔️|✔️|✔️|✔️|✔️||✔️||✔️|✔️||||||✔️|
+|[Associate: Networking](https://catalog.jccc.edu/degreecertificates/informationtechnology/information-technology-networking-aas/)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||||✔️|
+
+The following sections list entry-level certifications and where possible, include free or low cost training options to prepare for those courses. For each option, It's recommended that you purchase a recently published (and officila if possible) book to make sure you've covered all the course material.
+
+### CompTia Certifications
 The following links provide a description of several CompTIA certifications and the types of jobs typically associated with those certifications:
 - https://www.comptia.org/faq/a/what-jobs-can-i-get-with-a-comptia-a-certification
 - https://www.comptia.org/faq/network/what-jobs-can-i-get-with-comptia-network-certification
@@ -265,12 +272,12 @@ Finally, the list below provides free (or minimal cost) resources to study towar
   -  [Professor Messer](https://www.professormesser.com/about/)
   -  [My CS](https://www.youtube.com/playlist?list=PLKp3X-578hN-tuoQ4vdlR_yUMt2SmAAQf)
 
-#### ISC2 Certifications
+### ISC2 Certifications
 
 - CISSP (also Associates of ISC2)
   - [FreeCodeCamp CISSP](https://www.youtube.com/watch?v=M1_v5HBVHWo)
 
-#### Amazon Web Services (AWS) Certifications
+### Amazon Web Services (AWS) Certifications
 Amazon Free Tier: https://aws.amazon.com/free/
 
 - AWS Cloud Practicioner
@@ -283,7 +290,7 @@ Amazon Free Tier: https://aws.amazon.com/free/
   - [FreeCodeCamp](https://www.youtube.com/watch?v=Ia-UEYYR44s)
   - https://github.com/keenanromain/AWS-SAA-C02-Study-Guide
 
-#### Microsoft Azure Certifications
+### Microsoft Azure Certifications
 Azure Free Account: https://azure.microsoft.com/en-us/free/
 
 - Microsoft Azure Fundamentals (AZ-900)
@@ -292,14 +299,15 @@ Azure Free Account: https://azure.microsoft.com/en-us/free/
 - Microsoft Azure Administrator Certification (AZ-104)
   - [FreeCodeCamp](https://www.youtube.com/watch?v=10PbGbTUSAg)
 
-#### Offensive (Hacking) and Defensive Security Related Certifications
+### Offensive (Hacking) and Defensive Security Related Certifications
+The following lists deviates from low cost options for offensive cybersecurity certifications. There certainly are low cost options below; however, the higher cost options have a much greater likihood of earning you a job. 
 
 - Web Application Penetration Testing
   - [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification) ($99)
-    - [Portswigger's Web Academy](https://portswigger.net/web-security) (Free)
+    - [Portswigger's Web Academy Training](https://portswigger.net/web-security) (Free)
   - [eLearnSecurity's Web Application Penetration Tester](https://elearnsecurity.com/product/ewpt-certification/) ($400)
     - [INE's Training](https://ine.com/learning/courses/web-application-penetration-testing) (Premium (includes labs) costs $750/year - look for discounts for $250 off)
-    - You could also look at the [OWASP Testing Guide (Free)](https://owasp.org/www-project-web-security-testing-guide/latest/) paired with labs from Hack The Box or Try Hack Me (low cost) - TODO: find list of labs  
+    - You could also look at the [OWASP Testing Guide (Free)](https://owasp.org/www-project-web-security-testing-guide/latest/) paired with labs from Hack The Box or Try Hack Me - TODO: find list of labs  
   -  [SANS GIAC Web Application Penetration Tester](https://www.giac.org/certifications/web-application-penetration-tester-gwapt/) ($2,500)
     -  Training: todo
   -  [Offensive Security OSWE](https://www.offensive-security.com/awae-oswe/) ($1,649 to $2,499, includes training)
@@ -312,19 +320,18 @@ Azure Free Account: https://azure.microsoft.com/en-us/free/
     - Training (todo)
   - [Offensive Security OSCP](https://www.offensive-security.com/pwk-oscp/) ($2,500, includes training)
   - [SANS GIAC Penetration Tester (GPEN)](https://www.giac.org/certifications/penetration-tester-gpen/) ($2,500)
-- Building a resume based on practical labs, but without a specific certification. Some have badges or "owned" boxes to highlight. (Low cost monthly fee)
-  - https://www.pentesteracademy.com/topics
-  - Hack The Box
-    - [HTB Academy](https://academy.hackthebox.com/)
-    - [Hacking Labs](https://www.hackthebox.com/hacker/hacking-labs)
-  - [Try Hack Me](https://tryhackme.com/hacktivities)
+    - Todo: Training
 
-## Applying For Jobs
-### Before Applying For a Job
-1. Create a LinkedIn Profile and showcase your certifications, experience (volunteer and work experience), and link to your GitHub (or similar) projects
-2. Create a resume
-3. Create a cover letter explaining highlighting and summarizing your experience and qualifications to demonstrate how you stand out above other candidates
+Another option is to build a resume based on practical labs you've completed. It's not the same as a certification but it can demonstrate concrete skills needed to do penetration testing. These sites may include courses, badges or "owned" boxes you can highlight.
+- https://www.pentesteracademy.com/topics ($69 / month)
+- Hack The Box
+  - [HTB Academy](https://academy.hackthebox.com/)
+  - [Hacking Labs](https://www.hackthebox.com/hacker/hacking-labs) ($14 / month)
+- [Try Hack Me](https://tryhackme.com/hacktivities) (£8 / month)
 
+## Explore Careers and Entry-Level Positions
+
+The education, certifications, and job experience you seek should be informed by real actual jobs available in the geographic region you plan to work. Therefore, one of your first steps is to research those jobs through websites like LinkedIn, Google, Indeed, and others. Start by searching for the job you are interested in (in your desired geographic region). Next, look at the amount of education, experience, skills, and certifications required. Often, that desired first job will require considerably more experience than you have initially. So, your next step is to chart a path towards that job. What kind of experience does that future job require and is there another entry-level position (even though it may be less desirable) that provides you that experience and the opportunity to gain those additional skills? How many years experience do you need (how long at minimum should you stay in that entry-level position)? What other education and/or certifications should you pursue while in that entry-level position? Create a plan for getting to that future dream job. You are then going to then look for opportunities to meet those goals while in high school, college, and while at that first job.
 
 ### Example Kansas City Area Entry-Level IT Jobs
 #### Cerner
@@ -333,5 +340,14 @@ Azure Free Account: https://azure.microsoft.com/en-us/free/
   - Add your Zip Code
   - Choose the appropriate Distance
 - [Example Cerner Jobs](/Entry-Level%20Examples/Cerner/)
+
+## Applying For Jobs
+Before Applying For a Job, help employers find you and evaluate your education, skills, experience, and certifications by:
+1. Create a LinkedIn Profile and showcase your certifications, experience (volunteer and work experience), and link to your GitHub (or similar) projects
+2. Create a resume
+3. Create a cover letter explaining highlighting and summarizing your experience and qualifications to demonstrate how you stand out above other candidates
+
+
+
 
 
