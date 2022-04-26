@@ -8,15 +8,15 @@ As a student, your end goal is not limited to getting good grades or getting int
 
 When employers review a candidate's resume and cover letter, they are discerning whether the person meets the qualifications for the posted job and deciding who would most likely be successful in that organization and role. They are going to weigh the education, skills, and experience the candidate already brings to the table versus the amount of training (and time) it will take to get them fully functional in that role. You can make that decision easier for the employer by demonstrating your skills and experience through:
 1. Certifications
-2. Volunteer and work experience (at school, church, non-profit organizations, etc.)
-3. Completed projects (whether for school or as a hobby) that the employer can access on Github and Youtube (or other similar sites)
+2. Work and volunteer experience (at school, church, non-profit organizations, etc.)
+3. Completed projects (whether for school or as a hobby) that the employer can access on GitHub and YouTube (or other similar sites)
 4. Education
 
 More on certifications, projects, and displaying that work can be found within this presentation: [Johnson County Community College: So you Want to be an Application Security Engineer?](https://www.youtube.com/watch?v=Ul6kdub0CuQ)
 
 ## Start Where You Are
 
-Your journey begins now... Are you a current high school student or are you a college student? How much education do you want to puruse? What kind of job do you want to get in the IT field? Begin with the statements below that best match your situation (or explore all of them): 
+Your journey begins now... Are you a current high school student or are you a college student? How much education do you want to pursue? What kind of job do you want to get in the IT field? Begin with the statements below that best match your situation (or explore all of them): 
 
 - [I am a high school student and I plan to seek a job without pursuing a college degree...](#high-school-student-seeking-a-job-without-a-college-degree)
 - [I am a high school student and I plan to pursue an associates or bachelors degree...](#high-school-student-pursuing-an-associates-or-bachelors-degree)
@@ -30,17 +30,17 @@ Once you get that first job, continue to pursue more advanced certifications. Th
 
 Without a college degree, you may hit road bumps. Some companies and HR departments struggle to interview even the most qualified candidate simply because he or she doesn't have a college degree. To over come that, join professional organizations and build a wide variety of friendships across companies. Later, when you might need to change employers, those individuals may be able to get past otherwise difficult to surmount HR filters and you likewise can help them.
 
-Alteratively, you can also pursue an associates or bachelors degree while working. Many employers have tuition reimbursement programs that will pay for your college (after the fact and often with a certain letter grade requirement). This effectively allows you to start earning a salary, take on zero debt, and pursue that degree with a lot more real world experience and maturity.
+Alternatively, you can also pursue an associates or bachelors degree while working. Many employers have tuition reimbursement programs that will pay for your college (after the fact and often with a certain letter grade requirement). This effectively allows you to start earning a salary, take on zero debt, and pursue that degree with a lot more real world experience and maturity.
 
 The following sections are going to be helpful for you to dig into further:
 1. [Explore entry-level positions in your desired field](#explore-careers-and-entry-level-positions)
-1. [Pursue cerifications while in high school (and after getting that entry-level position)](#certifications)
+1. [Pursue certifications while in high school (and after getting that entry-level position)](#certifications)
 2. Get internships, apprenticeships, or volunteering in the field you plan to work
 3. [Join outside professional organizations](#kansas-city-area-professional-organizations-and-conferences)
 4. [Build your resume and LinkedIn Profile](#applying-for-jobs)
 
 ### High School Student Pursuing an Associates or Bachelors Degree
-If college is your next step as a high school student, you have a variety of options, including pursuing a Certificate or Associates degree at a community college as well as going to a four year college (either immediately or after community college). The strategy and decisions about which path to pick is beyond the scope of this document, except in identifying community colleges in the Johnson County, Kansas area and the specific features of those programs that may aid you in getting to the IT career you desire. Let's start first by identifying opportunities at the high school level to gain college credit and pursue certifiations.
+If college is your next step as a high school student, you have a variety of options, including pursuing a Certificate or Associates degree at a community college as well as going to a four year college (either immediately or after community college). The strategy and decisions about which path to pick is beyond the scope of this document, except in identifying community colleges in the Johnson County, Kansas area and the specific features of those programs that may aid you in getting to the IT career you desire. Let's start first by identifying opportunities at the high school level to gain college credit and pursue certifications.
 
 School districts in the Johnson County, KS area have a variety of ways to begin earning college credit while still in school. Those options include:
 - [AP classes and testing for college credit](#johnson-county-kansas-high-school-programs)
@@ -49,7 +49,7 @@ School districts in the Johnson County, KS area have a variety of ways to begin 
 - [Excel in CTE (Free CTE Related College Courses and Credit)](#johnson-county-kansas-high-school-programs)
 - Get high school and college credit for an internship or apprenticeship
 
-Additionally, you may be interested in building up professional certifications and experience. Currently, no Johnson County, KS area high school programs and classes (that I'm aware of) specifically line up with any IT related certifications, so you would need to pursue those independently (more on this below). As far as work experience, siimlar to getting a job after high school, you will want to pursue internships or volunteer opportunities. However, earning college credit and getting close to that finish line of earning a degree will often be the higher priority.
+Additionally, you may be interested in building up professional certifications and experience. Currently, no Johnson County, KS area high school programs and classes (that I'm aware of) specifically line up with any IT related certifications, so you would need to pursue those independently (more on this below). As far as work experience, similar to getting a job after high school, you will want to pursue internships or volunteer opportunities. However, earning college credit and getting close to that finish line of earning a degree will often be the higher priority.
 
 The following sections are going to be helpful for you to dig into further:
 - While still in high school:
@@ -58,7 +58,7 @@ The following sections are going to be helpful for you to dig into further:
   3. [Earning college credit while in high school](#johnson-county-kansas-high-school-programs)
 - When planning for college:
   1. Consider programs available at area colleges
-  1. [Pursue cerifications while in college](#certifications)
+  1. [Pursue certifications while in college](#certifications)
   2. Get internships, apprenticeships, or volunteering in the field you plan to work
 
 
@@ -80,7 +80,7 @@ Working on this section still...
 
 The following sections are going to be helpful for you to dig into further:
 1. [Explore entry-level positions in your desired field](#explore-careers-and-entry-level-positions)
-1. [Pursue cerifications while in college](#certifications)
+1. [Pursue certifications while in college](#certifications)
 2. Get internships, apprenticeships, or volunteering in the field you plan to work
 3. [Join outside professional organizations](#kansas-city-area-professional-organizations-and-conferences)
 4. [Build your resume and LinkedIn Profile](#applying-for-jobs)
@@ -130,7 +130,7 @@ Excel in CTE provides tuition free college courses towards specific career and t
 - IT 238: Digital Forensics
 - IT 239: Ethical Hacking
 - IT 257: Cybersecurity Operations
-- IT 272: Informatino Technology Internship II
+- IT 272: Information Technology Internship II
 - WEB 110: HTML and CSS
 - WEB 114: Web Scripting: JavaScript I
 - WEB 124: Web Scripting: JavaScript II
@@ -246,20 +246,13 @@ The following table lists the IT related programs available at Johnson County Co
 |[Associates: Emphasis in Health Information Systems](https://catalog.jccc.edu/degreecertificates/healthinformationsystems/emphasis-in-health-info-system/index.html)||||||||||||||||||
 |[Certificate: Health Information Systems Specialist](https://catalog.jccc.edu/degreecertificates/healthinformationsystems/health-info-systems-specialist-cert/index.html)||||||||||||||||||
 
-
 Johnson County Community College also has a few clubs you can get involved in related to those programs:
 - [JCCC Cybersecurity Club](https://jccc.campuslabs.com/engage/organization/cybersecurityclub)
 - [Computer Club](https://jccc.campuslabs.com/engage/organization/computerclub/events?showpastevents=true)
 
 ## Certifications
 
-To select the right certifications, you first must know what kind of career you would like to pursue. Then, you should consider entry-level job listings and the certifications they list as "required" and "desired". You want to stand out above the other candidates, so the more of those "required" and "desired" qualifications you can check, the better chance you have at being considered for that job. Additionally, the course work you pursue in high school and college will often be aligned to industry standard certifications - which might require only a nominal amount of additional studying to prepare you for and pass those exams. The table below shows an example of courses at Johnson County Community Colelge that align.
-
-|Program|A+|Linux+|Network+|Security+|Pentest+|PCEP|Cisco CNA|Cisco CyberOps Associate|Microsoft MD-101 Managing Modern Desktops|Microsoft MS-900 365 Fundamentals|Microsoft AZ-900 Azure Fundamentals|Microsoft AZ-104 Azure Administrator|Associate VMWare Data Center Virtualization|Google Associate Cloud Engineer|AWS Cloud Practicioner|AWS SysOps Administrator|LPIC-1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Certificate: Cloud|✔️|✔️|✔️|||||||✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️*|
-|[Certificate: Cybersecurity](https://catalog.jccc.edu/degreecertificates/informationtechnology/cybersecurity-cert/)|✔️|✔️|✔️|✔️|✔️|✔️||✔️||✔️|✔️||||||✔️|
-|[Associate: Networking](https://catalog.jccc.edu/degreecertificates/informationtechnology/information-technology-networking-aas/)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||||✔️|
+To select the right certifications, you first must know what kind of career you would like to pursue. Then, you should consider entry-level job listings and the certifications they list as "required" and "desired". You want to stand out above the other candidates, so the more of those "required" and "desired" qualifications you can check, the better chance you have at being considered for that job. Search for jobs in your desired career field and identify the certification that are necessary.
 
 The following sections list entry-level certifications and where possible, include free or low cost training options to prepare for those courses. For each option, It's recommended that you purchase a recently published (and official if possible) book to make sure you've covered all the course material.
 
@@ -278,18 +271,8 @@ The following links provide a description of several CompTIA certifications and 
 - https://www.comptia.org/faq/cysa/what-jobs-can-i-get-with-comptia-cysa-certification
 - https://www.comptia.org/faq/pentest/what-jobs-can-i-get-with-comptia-pentest-certification
 
-The table below shows Kansas City Area job descriptions that feature entry-level (or close) jobs that require a single certification. While many below do not have job descriptions associated with them, that doesn't mean the certification is not valuable. Those certifications might instead be worth pursuing if coursework is aligned and a minimal to moderate amount of effort is required to pass the tests. Additionally, CompTia certifications have been around for a long time and are suited toward students entering a particular profession. I would recommend A+, Network+, and Security+ for just about anyone. Linux+ almost makes that same core list.
 
-|Certification|HS Diploma<br>Required|Associates<br>Required|Bachelors<br>Required|Link to Job Descriptions|
-|---|---|---|---|---|
-|CompTia A+|Often|Sometimes|Rarely|[A+ Related Job Descriptions in Kansas City](/A+/)|
-|CompTia Network+||||Few found in the Kansas City Area on 4/14/2022<br>Still a good foundation for employers|
-|CompTia Linux+||||Few found in the Kansas City Area on 4/14/2022<br>Still a good foundation for employers|
-|CompTia Security+||||Few found in the Kansas City Area on 4/14/2022<br>Still a good foundation for employers|
-|CompTia CySA+|||||
-|CompTia Pentest+|||||
-
-Finally, the list below provides free (or minimal cost) resources to study towards obtaining those certifications.
+The list below provides free (or minimal cost) resources to study towards obtaining those certifications.
 - A+
   - [Professor Messer](https://www.professormesser.com/about/)
   - [My CS](https://www.youtube.com/playlist?list=PLKp3X-578hN-tuoQ4vdlR_yUMt2SmAAQf)
@@ -502,7 +485,7 @@ Azure Free Account: https://azure.microsoft.com/en-us/free/
 
 
 ### Offensive (Hacking) and Defensive Security Related Certifications
-The following lists deviates from low cost options for offensive cybersecurity certifications. There certainly are low cost options below; however, the higher cost options have a much greater likihood of earning you a job. 
+The following lists deviates from low cost options for offensive cybersecurity certifications. There certainly are low cost options below; however, the higher cost options have a much greater likelihood of earning you a job. 
 
 - Web Application Penetration Testing
   - [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification) ($99)
@@ -551,7 +534,7 @@ Another option is to build a resume based on practical labs you've completed. It
 - [Kansas City Developer Conference](https://www.kcdc.info/)
 - [BSidesKC](https://bsideskc.org/)
 
-### Profesional Organizations
+### Professional Organizations
 There's a big list here: https://www.kansascityusergroups.com/ in addition to those highlighted below.
 - [DevOpsKC](https://devopskc.com/)
 - [KC .NET Users Group](https://www.meetup.com/KC-NET-User-Group/)
