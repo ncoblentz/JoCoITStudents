@@ -364,7 +364,7 @@ Finally, the list below provides free (or minimal cost) resources to study towar
       - https://mymcpl.bibliocommons.com/v2/record/S110C4124885
       - https://mymcpl.bibliocommons.com/v2/record/S110C4131598
       - https://mymcpl.bibliocommons.com/v2/record/S110C4127646
--  CySA+
+- CySA+
   - Library Options
     - [COMPTIA CYSA+ CYBERSECURITY ANALYST CERTIFICATION EXAM GUIDE (EXAM CS0-002)](https://mymcpl.bibliocommons.com/v2/record/S110C4295091)
     - [CompTIA CySA+ Cybersecurity Analyst Certification Passport (Exam CS0-002)](https://mymcpl.bibliocommons.com/v2/record/S110C4295646)
@@ -421,16 +421,37 @@ Finally, the list below provides free (or minimal cost) resources to study towar
 ### Amazon Web Services (AWS) Certifications
 Amazon Free Tier: https://aws.amazon.com/free/
 
-- AWS Cloud Practicioner
+- [AWS Cloud Practicioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
   - [Amazon Free Training - Cloud Practicioner](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/)  
   - [FreeCodeCamp](https://www.youtube.com/watch?v=SOTamWNgDKc)
   - [Edureka!](https://www.youtube.com/watch?v=XjPUyGKRjZs)
-  - [Libary: AWS Certified Cloud Practitioner All-In-One Exam Guide (Exam CLF-C01)](https://mymcpl.bibliocommons.com/v2/record/S110C4296030)
-- AWS Certified Developer - Associate
+  - Library Options
+    - [AWS Certified Cloud Practitioner (CLF-C01) Cert Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4287517)
+    - [AWS Certified Cloud Practitioner All-In-One Exam Guide (Exam CLF-C01)](https://mymcpl.bibliocommons.com/v2/record/S110C4296030)
+- [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/)
+  - [Amazon Free Training - Developer Associate](https://explore.skillbuilder.aws/learn/course/external/view/elearning/42/exam-readiness-aws-certified-developer-associate-digital?da=sec&sec=prep)
   - [FreeCodeCamp](https://www.youtube.com/watch?v=RrKRN9zRBWs)
-- AWS Certified Solutions Architect
+  - Library Options
+    - [AWS Certified Developer-associate (DVA-C01) Cert Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4294255)
+    - [AWS Certified Developer Associate](https://mymcpl.bibliocommons.com/v2/record/S110C4287803)
+    - [AWS Certified Developer Official Study Guide, Associate Exam](https://mymcpl.bibliocommons.com/v2/record/S110C4295734)    
+- [AWS Certified SysOps Administrator](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
+  - [Amazon Free Training - SysOps Administrator](https://explore.skillbuilder.aws/learn/course/external/view/elearning/1328/exam-readiness-aws-certified-sysops-administrator-associate-digital?sysops=sec&sec=prep)
+  - Library Options
+    - [AWS Certified SysOps Administrator Practice Tests Associate (SOA-C01) Exam](https://mymcpl.bibliocommons.com/v2/record/S110C4293187)
+    - [AWS Certified SysOps Administrator Study Guide, 2nd Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4295756)
+    - [AWS Certified SysOps Administrator-associate (SOA-C01) Cert Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4291667)
+    - [AWS Certified SysOps Administrator (Associate)](https://mymcpl.bibliocommons.com/v2/record/S110C4289712)
+    - [AWS Certified SysOps Administrator Associate Exam Guide (Exam SOA-C01)](https://mymcpl.bibliocommons.com/v2/record/S110C4290086)
+    - [AWS Certified SysOps Administrator Associate Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4287522)
+    - [AWS Certified SysOps Administrator-associate (SO1-C01) Certification](https://mymcpl.bibliocommons.com/v2/record/S110C4287280)    
+- [AWS Certified Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+  - [Amazon Free Training - Solutions Architect](https://explore.skillbuilder.aws/learn/course/external/view/elearning/125/exam-readiness-aws-certified-solutions-architect-associate-digital?saa=sec&sec=prep)
   - [FreeCodeCamp](https://www.youtube.com/watch?v=Ia-UEYYR44s)
   - https://github.com/keenanromain/AWS-SAA-C02-Study-Guide
+  - Library Options
+    - [AWS Certified Solutions Architect Practice Tests](https://mymcpl.bibliocommons.com/v2/record/S110C4287307)
+    - [AWS Certified Solutions Architect Associate Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4287467)
 
 ### Microsoft Azure Certifications
 Azure Free Account: https://azure.microsoft.com/en-us/free/
