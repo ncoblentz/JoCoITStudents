@@ -393,6 +393,9 @@ The education, certifications, and job experience you seek should be informed by
   - Generally requires an associates or bachelors degree or equivalent work experience
   - Exceptions
     - Quality Tester requires a high school diploma, but desires an associates degree
+- Events
+  - [Not Your Typical Jobs in Tech](/Entry-Level%20Examples/Garmin/Not-Your-Typical-Jobs-In-Tech-Night-In-Person.png)
+    - "If you are a student who is interested in having an exciting career in technology but aren't sure if the four - year degree is the right fit for you, come to this event and learn more about some of the career paths we have here at Garmin."
 
 #### Variety of Small and Large Businesses
 - [Example Jobs](/Entry-Level%20Examples/Variety/)
