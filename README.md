@@ -63,20 +63,8 @@ The following sections are going to be helpful for you to dig into further:
 
 
 ### College Student
-Working on this section still...
 
-- Efficiency
-  - Take tests to get college credit: CLEP
-  - Maximize less expensive tuition at community colleges, perhaps save money by living at home with parents
-  - College credit through internship or apprenticeship programs
-  - Join campus clubs
-- Marketability 
-  - Many other college students are going to graduate with the same degree and similar grades as you. How will you stand out?
-    - Goes back to certifications, work experience, demonstrable projects
-- community college -> career
-  - Associates, Certificates, Certifications, Experience
-- community college -> bachelors
-  - Transferable college credit, Certifications if aligned
+As a college student, your primary focus is on completing the degree program you've enrolled in. However, when you apply for that first job, how will you stand out from your peers who have the same degree and similar grades? Employers will be looking for students who have a passion for the field they study, and that passion is demonstrated in how they spend their time outside of class. Consider getting involved in campus clubs and area professional organizations related to your degree program. Pursue internships and apprenticeship programs. Participate in contests, challenges, or volunteer your time. [Obtain certifications that align with your course work](#johnson-county-community-college) or [that go beyond your program but match your career interests](#certifications). 
 
 The following sections are going to be helpful for you to dig into further:
 1. [Explore entry-level positions in your desired field](#explore-careers-and-entry-level-positions)
