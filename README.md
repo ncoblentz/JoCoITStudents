@@ -230,14 +230,14 @@ The following table lists the IT related programs available at Johnson County Co
 |Program|A+|Linux+|Network+|Security+|Pentest+|PCEP|Cisco CNA|Cisco CyberOps Associate|Microsoft MD-101 Managing Modern Desktops|Microsoft MS-900 365 Fundamentals|Microsoft AZ-900 Azure Fundamentals|Microsoft AZ-104 Azure Administrator|Associate VMWare Data Center Virtualization|Google Associate Cloud Engineer|AWS Cloud Practicioner|AWS SysOps Administrator|LPIC-1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Certificate: Cloud|✔️|✔️|✔️|||||||✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️*|
-|[Certificate: Cybersecurity](https://catalog.jccc.edu/degreecertificates/informationtechnology/cybersecurity-cert/)|✔️*|✔️|✔️|✔️|✔️|✔️||✔️||✔️|✔️||||||✔️|
 |[Associate: Networking](https://catalog.jccc.edu/degreecertificates/informationtechnology/information-technology-networking-aas/)|✔️*|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||||✔️|
+|[Certificate: Cybersecurity](https://catalog.jccc.edu/degreecertificates/informationtechnology/cybersecurity-cert/)|✔️*|✔️|✔️|✔️|✔️|✔️||✔️||✔️|✔️||||||✔️|
+|[Certificate: Computer Support Specialist Network+/Security+](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-networking-security-cert/)|✔️||✔️|✔️||||||||||||||
 |[Associate: Computer Support Specialist](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-specialist-aas/)|✔️||✔️|✔️||||||||||||||
 |[Certificate: Computer Support Specialist A+](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-specialist-a-cert/)|✔️|||||||||||||||||
-|[Certificate: Computer Support Specialist Network+/Security+](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/comp-support-networking-security-cert/)|✔️||✔️|✔️||||||||||||||
-|[Certificate: Software Developer](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/software-developer-cert/)||||||||||||||||||
-|[Associates: Computer Information Systems](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/software-developer-cert/)||||||||||||||||||
 |[Associates: Emphasis in Information Systems Technology](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/informationsystemstech-as/)||||||||||||||||||
+|[Associates: Computer Information Systems](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/software-developer-cert/)||||||||||||||||||
+|[Certificate: Software Developer](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/software-developer-cert/)||||||||||||||||||
 |[Certificate: Data Analytics](https://catalog.jccc.edu/degreecertificates/computerinformationsystems/dataanalyticscert/index.html)||||||||||||||||||
 |[Associates: Electronics Technology](https://catalog.jccc.edu/degreecertificates/electronicstechnology/electronics-technology-aas/)||||||||||||||||||
 |[Certificate: Electronics Technology](https://catalog.jccc.edu/degreecertificates/electronicstechnology/electronics-technology-certificate/)||||||||||||||||||
