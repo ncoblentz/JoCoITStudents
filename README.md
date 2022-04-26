@@ -583,6 +583,13 @@ This section currently focuses on opportunities for high school graduates. If yo
 - [Example Jobs](/Entry-Level%20Examples/Federal%20Reserve%20Bank%20of%20Kansas%20City)
   -  Requirements vary including no college, associates, or bachelors
 
+#### Kansas WORKS (Job Seeking Site)
+- Go to: https://www.kansasworks.com/job_seeker
+  - Enter your zip code and search radius
+  - Enter a job position
+  - Click "Search"
+  - Go to Filters -> Education Level -> High School Diploma or Equivalent
+
 #### Variety of Small and Large Businesses
 - [Example Jobs](/Entry-Level%20Examples/Variety/)
   - There are many options that only require a high school diploma and/or certifications
