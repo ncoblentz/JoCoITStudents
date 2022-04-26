@@ -35,7 +35,7 @@ Alternatively, you can also pursue an associates or bachelors degree while worki
 The following sections are going to be helpful for you to dig into further:
 1. [Explore entry-level positions in your desired field](#explore-careers-and-entry-level-positions)
 1. [Pursue certifications while in high school (and after getting that entry-level position)](#certifications)
-2. Get internships, apprenticeships, or volunteering in the field you plan to work
+2. Get internships, apprenticeships, or volunteer in the field you plan to work
 3. [Join outside professional organizations](#kansas-city-area-professional-organizations-and-conferences)
 4. [Build your resume and LinkedIn Profile](#applying-for-jobs)
 
@@ -49,7 +49,7 @@ School districts in the Johnson County, KS area have a variety of ways to begin 
 - [Excel in CTE (Free CTE Related College Courses and Credit)](#johnson-county-kansas-high-school-programs)
 - Get high school and college credit for an internship or apprenticeship
 
-Additionally, you may be interested in building up professional certifications and experience. Currently, no Johnson County, KS area high school programs and classes (that I'm aware of) specifically line up with any IT related certifications, so you would need to pursue those independently (more on this below). As far as work experience, similar to getting a job after high school, you will want to pursue internships or volunteer opportunities. However, earning college credit and getting close to that finish line of earning a degree will often be the higher priority.
+Additionally, you may be interested in building up professional certifications and experience. Currently, no Johnson County, KS area high school programs and classes (that I'm aware of) specifically line up with any IT related certifications, so you would need to [pursue those independently](#certifications). As far as work experience, similar to getting a job after high school, you will want to pursue internships or volunteer opportunities. However, earning college credit and getting close to that finish line of earning a degree will often be the higher priority.
 
 The following sections are going to be helpful for you to dig into further:
 - While still in high school:
@@ -59,7 +59,7 @@ The following sections are going to be helpful for you to dig into further:
 - When planning for college:
   1. Consider programs available at area colleges
   1. [Pursue certifications while in college](#certifications)
-  2. Get internships, apprenticeships, or volunteering in the field you plan to work
+  2. Get internships, apprenticeships, or volunteer in the field you plan to work
 
 
 ### College Student
@@ -81,7 +81,7 @@ Working on this section still...
 The following sections are going to be helpful for you to dig into further:
 1. [Explore entry-level positions in your desired field](#explore-careers-and-entry-level-positions)
 1. [Pursue certifications while in college](#certifications)
-2. Get internships, apprenticeships, or volunteering in the field you plan to work
+2. Get internships, apprenticeships, or volunteer in the field you plan to work
 3. [Join outside professional organizations](#kansas-city-area-professional-organizations-and-conferences)
 4. [Build your resume and LinkedIn Profile](#applying-for-jobs)
 
@@ -258,9 +258,7 @@ The following sections list entry-level certifications and where possible, inclu
 
 Resources:
 - [Johnson County Library](https://www.jocolibrary.org/)
-- [Kansas City Public Library (Reciprocal agreement with Johnson County Library)]()
 - [Mid-Continent Public Library (Reciprocal agreement with Johnson County Library)](https://www.mymcpl.org/library-information/using-mcpl/frequently-asked-questions/library-cards)
-- [North Kansas City Public Library (Reciprocal agreement with Johnson County Library)](http://www.nkcpl.org/services/card)
 - [Kansas City (MO) Public Library (Reciprocal agreement with Johnson County Library)](https://kclibrary.org/services/library-cards)
 
 ### CompTIA Certifications
@@ -545,11 +543,7 @@ There's a big list here: https://www.kansascityusergroups.com/ in addition to th
 
 ## Explore Careers and Entry-Level Positions
 
-The education, certifications, and job experience you seek should be informed by real actual jobs available in the geographic region you plan to work. Therefore, one of your first steps is to research those jobs through websites like LinkedIn, Google, Indeed, and others. Start by searching for the job you are interested in (in your desired geographic region). Next, look at the amount of education, experience, skills, and certifications required. Often, that desired first job will require considerably more experience than you have initially. So, your next step is to chart a path towards that job. What kind of experience does that future job require and is there another entry-level position (even though it may be less desirable) that provides you that experience and the opportunity to gain those additional skills? How many years experience do you need (how long at minimum should you stay in that entry-level position)? What other education and/or certifications should you pursue while in that entry-level position? Create a plan for getting to that future dream job. You are then going to then look for opportunities to meet those goals while in high school, college, and while at that first job.
-
-Career Exploration Resources:
-- https://cybersecurityguide.org/resources/k-12-guide/
-- https://cybersecurityguide.org/careers/
+The education, certifications, and job experience you seek should be informed by real actual jobs available in the geographic region you plan to work. Therefore, one of your first steps is to research those jobs through websites like LinkedIn, Google, Indeed, and others. Start by searching for the job you are interested in (in your desired geographic region). Next, look at the amount of education, experience, skills, and certifications required. Often, that desired first job will require considerably more experience than you have initially. So, your next step is to chart a path towards that job. What kind of experience does that future job require and is there another entry-level position (even though it may be less desirable) that provides you that experience and the opportunity to gain those additional skills? How many years experience do you need (how long at minimum should you stay in that entry-level position)? What other education and/or certifications should you pursue while in that entry-level position? Create a plan for getting to that future dream job. You are then going to look for opportunities to meet those goals while in high school, college, and while at that first job.
 
 ### Example Kansas City Area Entry-Level IT Jobs
 
@@ -591,6 +585,6 @@ Another option is to start your own business, especially if you are the entrepre
 ## Applying For Jobs
 Before Applying For a Job, help employers find you and evaluate your education, skills, experience, and certifications by:
 1. Create a LinkedIn Profile and showcase your certifications, experience (volunteer and work experience), and link to your GitHub (or similar) projects
-2. Create a resume
-3. Create a cover letter explaining highlighting and summarizing your experience and qualifications to demonstrate how you stand out above other candidates
+2. Create a resume with similar information
+3. Write a cover letter explaining, highlighting, and summarizing your experience and qualifications to demonstrate how you stand out above other candidates for a particular job you are applying for
 
