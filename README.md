@@ -453,14 +453,53 @@ Amazon Free Tier: https://aws.amazon.com/free/
     - [AWS Certified Solutions Architect Practice Tests](https://mymcpl.bibliocommons.com/v2/record/S110C4287307)
     - [AWS Certified Solutions Architect Associate Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4287467)
 
-### Microsoft Azure Certifications
+### Microsoft and Microsoft Azure Certifications
 Azure Free Account: https://azure.microsoft.com/en-us/free/
-
+- MD-101: Managing Modern Desktops
+  - [Free Training From Microsoft](https://docs.microsoft.com/en-us/learn/certifications/exams/md-101?tab=tab-learning-paths)
+  - Library Options
+    - [Exam MD-101 Managing Modern Desktops](https://mymcpl.bibliocommons.com/v2/record/S110C4299644)
+    - [Exam Ref MD-101 Managing Modern Desktops, 2nd Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4298631)
+    - [MCA Modern Desktop Administrator Complete Study Guide: Exam MD-100 and Exam MD-101](https://mymcpl.bibliocommons.com/v2/record/S110C4292424)
+    - [MCA Modern Desktop Administrator Study Guide Exam MD-101](https://mymcpl.bibliocommons.com/v2/record/S110C4292425)
+    - [Exam MD-101 Managing Modern Desktops (Video)](https://mymcpl.bibliocommons.com/v2/record/S110C4293097)
+    - [Microsoft Managing Modern Desktop (MD-101) Cert Prep: 1 Windows Deployment, Updates, and Policies.](https://mymcpl.bibliocommons.com/v2/record/S110C4123671)
+    - [Microsoft Managing Modern Desktop (MD-101) Cert Prep: 2 Windows Devices, Apps, and Data.](https://mymcpl.bibliocommons.com/v2/record/S110C4123390)
+- Microsoft 365 Fundamentals (MS-900)
+  - [Free Training From Microsoft](https://docs.microsoft.com/en-us/users/95762005/collections/g2qa0dm52w5pm)
+  - Library Options
+    - [Exam MS-900 Microsoft 365 Fundamentals](https://mymcpl.bibliocommons.com/v2/record/S110C4294355)
+    - [Exam Ref MS-900 Microsoft 365 Fundamentals](https://mymcpl.bibliocommons.com/v2/record/S110C4293233)
+    - [Microsoft MS-900 Certification Course](https://mymcpl.bibliocommons.com/v2/record/S110C4294433)
+    - [Microsoft 365 Certified Fundamentals MS-900 Exam Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4296219)
 - Microsoft Azure Fundamentals (AZ-900)
+  - [Free Training From Microsoft](https://docs.microsoft.com/en-us/users/23110622/collections/0kjyh8rn5x76j6)
+  - [Free Virtual Training Day From Microsoft](https://mvtd.events.microsoft.com/azure)
   - [FreeCodeCamp](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
   - [Edureka!](https://www.youtube.com/watch?v=wK3U7xSt31M)
+  - Library Options
+    - [Microsoft Certified Azure Fundamentals All-In-One Exam Guide (Exam AZ-900)](https://mymcpl.bibliocommons.com/v2/record/S110C4297758)
+    - [AZ-900: Microsoft Azure Fundamentals Certification 2020](https://mymcpl.bibliocommons.com/v2/record/S110C4293354)
+    - [Exam AZ-900: Microsoft Azure Fundamentals (Video), 2nd Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4296350)
+    - [Exam Prep: Microsoft Azure Fundamentals (AZ-900)](https://mymcpl.bibliocommons.com/v2/record/S110C4131597)
+    - [AZ-900 Microsoft Azure Fundamentals Exam Quick Prep](https://mymcpl.bibliocommons.com/v2/record/S110C4292304)
+    - [Microsoft AZ-900 Certification Course: Azure Fundamentals](https://mymcpl.bibliocommons.com/v2/record/S110C4290138)
+    - [Exam Ref AZ-900 Microsoft Azure Fundamentals, 2nd Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4294315)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+  - [Free Training From Microsoft](https://docs.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/3n4rbqgewwpoon)
+  - Library Options
+    - [SC-900: Microsoft Security, Compliance, and Identity Fundamentals](https://mymcpl.bibliocommons.com/v2/record/S110C4299212)
+    - [EXAM REF SC-900 MICROSOFT SECURITY FUNDAMENTALS](https://mymcpl.bibliocommons.com/v2/record/S110C4298609)
 - Microsoft Azure Administrator Certification (AZ-104)
+  - [Free Training From Microsoft](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/?tab=tab-learning-paths#certification-exams)
   - [FreeCodeCamp](https://www.youtube.com/watch?v=10PbGbTUSAg)
+  - Library Options
+    - [Exam Ref AZ-104 Microsoft Azure Administrator](https://mymcpl.bibliocommons.com/v2/record/S110C4297752)
+    - [AZ-104: Microsoft Azure Administrator Full Course](https://mymcpl.bibliocommons.com/v2/record/S110C4293355)
+    - [Exam AZ-104 Microsoft Azure Administrator (Video)](https://mymcpl.bibliocommons.com/v2/record/S110C4293789)
+    - [Exam Tips: Microsoft Azure Administrator (AZ-104).](https://mymcpl.bibliocommons.com/v2/record/S110C4123940)
+    - [Microsoft AZ-104 Certification: Azure Administrator](https://mymcpl.bibliocommons.com/v2/record/S110C4293164)    
+
 
 ### Offensive (Hacking) and Defensive Security Related Certifications
 The following lists deviates from low cost options for offensive cybersecurity certifications. There certainly are low cost options below; however, the higher cost options have a much greater likihood of earning you a job. 
