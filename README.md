@@ -570,6 +570,12 @@ This section currently focuses on opportunities for high school graduates. If yo
   - [Not Your Typical Jobs in Tech](/Entry-Level%20Examples/Garmin/Not-Your-Typical-Jobs-In-Tech-Night-In-Person.png)
     - "If you are a student who is interested in having an exciting career in technology but aren't sure if the four - year degree is the right fit for you, come to this event and learn more about some of the career paths we have here at Garmin."
 
+#### Jack Henry & Associates
+- Go to: https://jackhenry.avature.net/careers/SearchJobs
+  - Locations: Remote; Shawnee, KS; Lenexa, KS
+- [Example Jobs](/Entry-Level%20Examples/Jack%20Henry/)
+  -  Prefers but does not require a bachelors or associates degree
+
 #### Variety of Small and Large Businesses
 - [Example Jobs](/Entry-Level%20Examples/Variety/)
   - There are many options that only require a high school diploma and/or certifications
