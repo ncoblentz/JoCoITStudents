@@ -356,6 +356,14 @@ The list below provides free (or minimal cost) resources to study towards obtain
   - Library Options
     - Unsure if this one is PT0-002: [CompTIA PenTest+ Certification](https://jocolibrary.bibliocommons.com/v2/record/S36C1807494)
 
+### Linux Professional Institute
+If you get your Linux+ (or vice versa) you may consider getting this certification as well.
+
+- [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview) (includes free training material)
+  - Library Options
+    - [LPIC-1 Linux Professional Institute Certification Practice Tests, 2nd Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4292925)
+    - [LPIC-1 Linux Professional Institute Certification Study Guide, 5th Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4295742)
+
 ### ISC2 Certifications
 
 - CISSP (also Associates of ISC2)
