@@ -507,6 +507,13 @@ The following lists deviates from low cost options for offensive cybersecurity c
 - Web Application Penetration Testing
   - [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification) ($99)
     - [Portswigger's Web Academy Training](https://portswigger.net/web-security) (Free)
+    - Related Books (Not certification related)
+      - [A Complete Guide to Burp Suite: Learn to Detect Application Vulnerabilities](https://mymcpl.bibliocommons.com/v2/record/S110C4295025)
+      - [Web Application Hacking With Burp Suite](https://mymcpl.bibliocommons.com/v2/record/S110C4296883)
+      - [Burp Suite: Web Application Penetration Testing](https://mymcpl.bibliocommons.com/v2/record/S110C4298201)
+      - [Hands-on Application Penetration Testing With Burp Suite: Use Burp Suite and Its Features to Inspect, Detect, and Exploit Security Vulnerabilities in Your Web Applications](https://mymcpl.bibliocommons.com/v2/record/S110C4287745)
+      - [Burp Suite Cookbook: Practical Recipes to Help You Master Web Penetration Testing With Burp Suite](https://mymcpl.bibliocommons.com/v2/record/S110C4286107)
+      - [Practical Web Penetration Testing: Secure Web Applications Using Burp Suite, Nmap, Metasploit, and More](https://mymcpl.bibliocommons.com/v2/record/S110C4285393)
   - [eLearnSecurity's Web Application Penetration Tester](https://elearnsecurity.com/product/ewpt-certification/) ($400)
     - [INE's Training](https://ine.com/learning/courses/web-application-penetration-testing) (Premium (includes labs) costs $750/year - look for discounts for $250 off)
     - You could also look at the [OWASP Testing Guide (Free)](https://owasp.org/www-project-web-security-testing-guide/latest/) paired with labs from Hack The Box or Try Hack Me - TODO: find list of labs  
@@ -520,6 +527,14 @@ The following lists deviates from low cost options for offensive cybersecurity c
     - [INE's Training](https://ine.com/learning/paths/penetration-testing-professional) (Premium (includes labs) costs $750/year - look for discounts for $250 off)
   - [EC-Council: Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) ($ TODO)
     - Training (todo)
+    - Library Options
+      - [CEH Certified Ethical Hacker Cert Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4299251)
+      - [CEH V11: Certified Ethical Hacker Version 11 Practice Tests](https://mymcpl.bibliocommons.com/v2/record/S110C4298618)
+      - [Certified Ethical Hacker (CEH) Exam Cram](https://mymcpl.bibliocommons.com/v2/record/S110C4298728)
+      - [CEH Certified Ethical Hacker All-In-One Exam Guide, Fifth Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4298691)
+      - [CEH V11 Certified Ethical Hacker Study Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4298037)
+      - [Certified Ethical Hacker (CEH) Complete Video Course](https://mymcpl.bibliocommons.com/v2/record/S110C4299578)
+      - [Certified Ethical Hacker (CEH) Preparation Guide: Lesson-based Review of Ethical Hacking and Penetration Testing](https://mymcpl.bibliocommons.com/v2/record/S110C4298165)
   - [Offensive Security OSCP](https://www.offensive-security.com/pwk-oscp/) ($2,500, includes training)
   - [SANS GIAC Penetration Tester (GPEN)](https://www.giac.org/certifications/penetration-tester-gpen/) ($2,500)
     - Todo: Training
