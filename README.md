@@ -535,6 +535,8 @@ The education, certifications, and job experience you seek should be informed by
 
 ### Example Kansas City Area Entry-Level IT Jobs
 
+This section currently focuses on opportunities for high school graduates. If you will graduate with an associates or bachelors degree, its much easier to find entry-level positions through job searching sites.
+
 #### Microcenter
 - Go to: https://www.microcenter.com/site/stores/employment.aspx
   - Company Location: Overland Park
