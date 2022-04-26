@@ -261,7 +261,14 @@ To select the right certifications, you first must know what kind of career you 
 |[Certificate: Cybersecurity](https://catalog.jccc.edu/degreecertificates/informationtechnology/cybersecurity-cert/)|✔️|✔️|✔️|✔️|✔️|✔️||✔️||✔️|✔️||||||✔️|
 |[Associate: Networking](https://catalog.jccc.edu/degreecertificates/informationtechnology/information-technology-networking-aas/)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||||✔️|
 
-The following sections list entry-level certifications and where possible, include free or low cost training options to prepare for those courses. For each option, It's recommended that you purchase a recently published (and officila if possible) book to make sure you've covered all the course material.
+The following sections list entry-level certifications and where possible, include free or low cost training options to prepare for those courses. For each option, It's recommended that you purchase a recently published (and official if possible) book to make sure you've covered all the course material.
+
+Resources:
+- [Johnson County Library](https://www.jocolibrary.org/)
+- [Kansas City Public Library (Reciprocal agreement with Johnson County Library)]()
+- [Mid-Continent Public Library (Reciprocal agreement with Johnson County Library)](https://www.mymcpl.org/library-information/using-mcpl/frequently-asked-questions/library-cards)
+- [North Kansas City Public Library (Reciprocal agreement with Johnson County Library)](http://www.nkcpl.org/services/card)
+- [Kansas City (MO) Public Library (Reciprocal agreement with Johnson County Library)](https://kclibrary.org/services/library-cards)
 
 ### CompTIA Certifications
 The following links provide a description of several CompTIA certifications and the types of jobs typically associated with those certifications:
@@ -286,20 +293,131 @@ Finally, the list below provides free (or minimal cost) resources to study towar
 - A+
   -  [Professor Messer](https://www.professormesser.com/about/)
   -  [My CS](https://www.youtube.com/playlist?list=PLKp3X-578hN-tuoQ4vdlR_yUMt2SmAAQf)
+  -  Library Options
+    -  [Mike Meyers' CompTIA A+ Certification Passport, Seventh Edition (Exams 220-1001 & 220-1002), 7th Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4292216)
+    -  [Mike Meyers' CompTIA A+ Certification Passport](https://mymcpl.bibliocommons.com/v2/record/S110C4009472)
+    -  [CompTIA A+ Practice Questions Exam Cram Core 1 (220-1001) and Core 2 (220-1002)](https://mymcpl.bibliocommons.com/v2/record/S110C4290917)
+    -  [CompTIA A+ Core 1 (220-1001) and Core 2 (220-1002) Exam Cram](https://mymcpl.bibliocommons.com/v2/record/S110C4289735)
+    -  [CompTIA A+ Complete Review Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4290692)
+    -  [CompTIA A+ Complete Practice Tests](https://mymcpl.bibliocommons.com/v2/record/S110C3839611)
+    -  [CompTIA A+ Complete Practice Tests](https://mymcpl.bibliocommons.com/v2/record/S110C4290447)
+    -  [CompTIA A+ Certification Study Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4288698)
+    -  [CompTIA A+ Certification Exam Guide, (exams 220-1001 & 220-1002)](https://mymcpl.bibliocommons.com/v2/record/S110C4290226)
+    -  [CompTIA A+ Certification 220-1001: The Total Course](https://mymcpl.bibliocommons.com/v2/record/S110C4296276)
 - Network+
   -  [Professor Messer](https://www.professormesser.com/about/)
   -  [FreeCodeCamp Network+](https://www.youtube.com/watch?v=qiQR5rTSshw)
   -  [My CS](https://www.youtube.com/playlist?list=PLKp3X-578hN-tuoQ4vdlR_yUMt2SmAAQf)
+  -  Library Options
+    -  [CompTIA Network+ Certification Exam Guide (N10-008)](https://jocolibrary.bibliocommons.com/v2/record/S36C1816813)
+    -  [CompTIA Network+ N10-007](https://jocolibrary.bibliocommons.com/v2/record/S36C1569603)'
+    -  [CompTIA Network Certification N10-007: The Total Course](https://mymcpl.bibliocommons.com/v2/record/S110C4291768)
+    -  [CompTIA Network+ Cert (N10-007): Full Course and Practice Exam](https://mymcpl.bibliocommons.com/v2/record/S110C4285385)
+    -  [CompTIA Network+ Certification Exam Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4285277)
+    -  [CompTIA Network+ Certification Guide: the Ultimate Guide to Passing the N10-007 Exam](https://mymcpl.bibliocommons.com/v2/record/S110C4287189)
+    -  [CompTIA Network+ Certification Study Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4285012)
+    -  [CompTIA Network+ N10-007](https://mymcpl.bibliocommons.com/v2/record/S110C4284988)
+    -  [CompTIA Network+ N10-007](https://mymcpl.bibliocommons.com/v2/record/S110C4283750)
+    -  [CompTIA Network+ N10-007 Authorized Cert Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4284778)
+    -  [CompTIA Network+ Practice Tests](https://mymcpl.bibliocommons.com/v2/record/S110C4284532)
+    -  [CompTIA Network+ Review Guide Exam N10-007](https://mymcpl.bibliocommons.com/v2/record/S110C4291271)
+    -  CompTIA Network+ (N10-007) Cert Prep Videos
+      -  https://mymcpl.bibliocommons.com/v2/record/S110C4128479
+      -  https://mymcpl.bibliocommons.com/v2/record/S110C4128477
+      -  https://mymcpl.bibliocommons.com/v2/record/S110C4128475
+      -  https://mymcpl.bibliocommons.com/v2/record/S110C4131129
+      -  https://mymcpl.bibliocommons.com/v2/record/S110C4128490
+      -  https://mymcpl.bibliocommons.com/v2/record/S110C4128489
+      -  https://mymcpl.bibliocommons.com/v2/record/S110C4128487
+      -  https://mymcpl.bibliocommons.com/v2/record/S110C4128486
+      -  https://mymcpl.bibliocommons.com/v2/record/S110C4128508
 - Linux+
+  - Library Options
+    - [CompTIA Linux+ Certification Exam Guide (exam XK0-004)](https://mymcpl.bibliocommons.com/v2/record/S110C4293408)
+    - [CompTIA Linux+ Portable Command Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4290773)
+    - [CompTIA Linux+ XK0-004](https://mymcpl.bibliocommons.com/v2/record/S110C4292390)
+    - [Cert Prep: CompTIA Linux+ (XKO-004)](https://mymcpl.bibliocommons.com/v2/record/S110C4131406)
+    - [CompTIA Linux+ Practice Tests, 2nd Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4295848)
+    - [CompTIA Linux+ Study Guide, 4th Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4295904)
 - Security+
   -  [Professor Messer](https://www.professormesser.com/about/)
   -  [My CS](https://www.youtube.com/playlist?list=PLKp3X-578hN-tuoQ4vdlR_yUMt2SmAAQf)
+  -  Library Options
+    - [Comptia Security+ Certification Practice Exams, (Exam SY0-601)](https://mymcpl.bibliocommons.com/v2/record/S110C4295675)
+    - [CompTIA Security+ Exam Guide, (Exam SY0-601)](https://mymcpl.bibliocommons.com/v2/record/S110C4296782)
+    - [CompTIA Security+ SY0-601 Cert Guide, 5th Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4297092)
+    - [Mike Meyers Comptia Security+ Certification Guide, Exam Sy0-601](https://mymcpl.bibliocommons.com/v2/record/S110C4296978)
+    - [Mike Meyers' CompTIA Security+ Certification Passport, (Exam SY0-601)](https://mymcpl.bibliocommons.com/v2/record/S110C4120515)
+    - [Principles of Computer Security: CompTIA Security+ and Beyond Lab Manual (Exam SY0-601)](https://mymcpl.bibliocommons.com/v2/record/S110C4297905)
+    - [CompTIA Security+: SY0-601 Certification Guide - Second Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4296423)
+    - [CompTIA Security+ SY0-601](https://mymcpl.bibliocommons.com/v2/record/S110C4296830)
+    - [CompTIA Security+ SY0-601 Exam Cram, 6th Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4294859)
+    - CompTIA Security+ (SY0-601) Cert Prep Videos
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4167905
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4126019
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4128665
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4128836
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4128835
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4129238
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4127817
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4130992
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4124885
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4131598
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4127646
+-  CySA+
+  -  Library Options
+    - [COMPTIA CYSA+ CYBERSECURITY ANALYST CERTIFICATION EXAM GUIDE (EXAM CS0-002)](https://mymcpl.bibliocommons.com/v2/record/S110C4295091)
+    - [CompTIA CySA+ Cybersecurity Analyst Certification Passport (Exam CS0-002)](https://mymcpl.bibliocommons.com/v2/record/S110C4295646)
+    - [COMPTIA CYSA+ CYBERSECURITY ANALYST CERTIFICATION PRACTICE EXAMS (EXAM CS0-002)](https://mymcpl.bibliocommons.com/v2/record/S110C4295090)
+    - [CompTIA Cybersecurity Analyst (CySA+) CS0-002 Cert Guide, 2nd Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4294330)
+    - [TOTAL: CompTIA CySA+ Cybersecurity Analyst (CS0-002)](https://mymcpl.bibliocommons.com/v2/record/S110C4030524)
+    - CompTIA CySA+ (CS0-002) Cert Prep Videos
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4127463
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4129972
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4125786
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4125791
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4124094
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4126443
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4124654
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4125134
+- Cloud+
+  - Library Options
+    - [CompTIA Cloud+ Certification All-In-One Exam Guide (Exam CV0-003)](https://mymcpl.bibliocommons.com/v2/record/S110C4297584)
+- PenTest+
+  - Library Options
+    - Unsure if this one is PT0-002: [CompTIA PenTest+ Certification](https://jocolibrary.bibliocommons.com/v2/record/S36C1807494)
 
 ### ISC2 Certifications
 
 - CISSP (also Associates of ISC2)
   - [FreeCodeCamp CISSP](https://www.youtube.com/watch?v=M1_v5HBVHWo)
+  - Library Options
+    - [(ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide](https://mymcpl.bibliocommons.com/v2/record/S110C4297527)
+    - [(ISC)2 CISSP Certified Information Systems Security Professional Official Practice Tests](https://mymcpl.bibliocommons.com/v2/record/S110C4297825)
+    - [CISSP Exam Cram, 5th Edition](https://mymcpl.bibliocommons.com/v2/record/S110C4297288)
+    - [CISSP Certified Information Systems Security Professional](https://mymcpl.bibliocommons.com/v2/record/S110C4297886)
+    - CISSP Cert Prep (2021) Video Series
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4167730
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4124373
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4125163
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4128067
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4131321
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4126439
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4125400
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4128931
+      - https://mymcpl.bibliocommons.com/v2/record/S110C4129929
 
+### Cisco Certifications
+
+- CCNA
+  - [Library: CCNA 200-301. Official Cert Guide, Volume 1](https://jocolibrary.bibliocommons.com/v2/record/S36C1697968) or [Alt](https://mymcpl.bibliocommons.com/v2/record/S110C3888432)
+  - [Library: CCNA 200-301. Official Cert Guide, Volume 2](https://jocolibrary.bibliocommons.com/v2/record/S36C1697967) or [Alt](https://mymcpl.bibliocommons.com/v2/record/S110C3888433)
+  - [Library: Understanding Cisco Networking Technologies, Exam 200-301. Volume 1](https://mymcpl.bibliocommons.com/v2/record/S110C3888437) 
+  - [Library: Understanding Cisco Networking Technologies, Volume 1](https://mymcpl.bibliocommons.com/v2/record/S110C4292686)
+- CyberOps Associate
+  - [Library: CCNA Cyber Ops SECOPS 210-255 Official Cert Guide](https://jocolibrary.bibliocommons.com/v2/record/S36C1586380)
+  - [Library: CCNA Cyber Ops SECOPS Certification Guide 210-255](https://mymcpl.bibliocommons.com/v2/record/S110C4290344)    
+  
 ### Amazon Web Services (AWS) Certifications
 Amazon Free Tier: https://aws.amazon.com/free/
 
@@ -307,6 +425,7 @@ Amazon Free Tier: https://aws.amazon.com/free/
   - [Amazon Free Training - Cloud Practicioner](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/)  
   - [FreeCodeCamp](https://www.youtube.com/watch?v=SOTamWNgDKc)
   - [Edureka!](https://www.youtube.com/watch?v=XjPUyGKRjZs)
+  - [Libary: AWS Certified Cloud Practitioner All-In-One Exam Guide (Exam CLF-C01)](https://mymcpl.bibliocommons.com/v2/record/S110C4296030)
 - AWS Certified Developer - Associate
   - [FreeCodeCamp](https://www.youtube.com/watch?v=RrKRN9zRBWs)
 - AWS Certified Solutions Architect
@@ -369,6 +488,10 @@ There's a big list here: https://www.kansascityusergroups.com/ in addition to th
 ## Explore Careers and Entry-Level Positions
 
 The education, certifications, and job experience you seek should be informed by real actual jobs available in the geographic region you plan to work. Therefore, one of your first steps is to research those jobs through websites like LinkedIn, Google, Indeed, and others. Start by searching for the job you are interested in (in your desired geographic region). Next, look at the amount of education, experience, skills, and certifications required. Often, that desired first job will require considerably more experience than you have initially. So, your next step is to chart a path towards that job. What kind of experience does that future job require and is there another entry-level position (even though it may be less desirable) that provides you that experience and the opportunity to gain those additional skills? How many years experience do you need (how long at minimum should you stay in that entry-level position)? What other education and/or certifications should you pursue while in that entry-level position? Create a plan for getting to that future dream job. You are then going to then look for opportunities to meet those goals while in high school, college, and while at that first job.
+
+Career Exploration Resources:
+- https://cybersecurityguide.org/resources/k-12-guide/
+- https://cybersecurityguide.org/careers/
 
 ### Example Kansas City Area Entry-Level IT Jobs
 
