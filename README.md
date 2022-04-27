@@ -84,6 +84,8 @@ The following sections are going to be helpful for you to dig into further:
 |[Spring Hill](#spring-hill-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️||||||||||||||
 |[Gardner-Edgerton](#gardner-edgerton-public-schools)|✔️|✔️|✔️|✔️|✔️||✔️|||||||||||✔️|✔️|
 |[DeSoto](#desoto-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️|✔️||✔️||✔️|?|?|||||✔️|✔️|
+|Bishop Miege|✔️|✔️|✔️|✔️|✔️||✔️|?|?|||||||||✔️|✔️|
+|St. James Academy|✔️|✔️|✔️|✔️|✔️|||||||||||||✔️|✔️|
 
 *Verify this information with the school district you've enrolled in and the participating high school*
 
@@ -100,6 +102,8 @@ References:
 - https://docs.google.com/document/d/1hwB5p3__OBbyv6S3jvfYZDHACQdvva75cOLCvrF5hKw/edit
 - https://drive.google.com/file/d/17eNU66nwPBQU0oA8SvBU_d0iDEK-4ATI/view
 - https://www.usd232.org/site/handlers/filedownload.ashx?moduleinstanceid=10187&dataid=33909&FileName=USD%20232%20Course%20Guide%202022-2023.pdf
+- https://www.bishopmiege.com/s/100/images/editor_documents/2020/21-22course_catalog.pdf#page=28
+- https://docs.google.com/document/d/1pqoCWFK01QeFim3xzx71b6urrAIZ-PfAT2shrHL0KP0/edit#heading=h.8gnlw4gskmon
 - Direct discussions with teachers in those school districts
 
 ### Generally Available Options Through JCCC
