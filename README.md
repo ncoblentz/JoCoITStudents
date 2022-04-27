@@ -75,15 +75,32 @@ The following sections are going to be helpful for you to dig into further:
 
 ## Johnson County Kansas High School Programs
 
-|Student/School|[Excel in CTE](#excel-in-cte)|[AP Exams](#college-credit-through-an-assessment-or-exam)|[CLEP](#college-credit-through-an-assessment-or-exam)|[JCCC Prior Learning Assessment](#college-credit-through-an-assessment-or-exam)|[JCCC Quick Step](#jccc-quick-step)|CTE Pathway: Programming and Software Development|Dual Credit CS 134|Dual Credit CS 200|AP Computer Science A|AP Computer Science Principles|CyberPatriots Club|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|Kansas|✔️|✔️|✔️|✔️|✔️|||||||
-|[Olathe](#olathe-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|
-|[Shawnee-Mission](#shawnee-mission-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️|||✔️|||
-|[Blue Valley](#blue-valley-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️|✔️||✔️|✔️|✔️|
-|[Spring Hill](#spring-hill-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️||||||
-|[Gardner-Edgerton](#gardner-edgerton-public-schools)|✔️|✔️|✔️|✔️|✔️|||||||
-|[DeSoto](#desoto-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️|||✔️|||
+|Student/School|[Excel in CTE](#excel-in-cte)|[AP Exams](#college-credit-through-an-assessment-or-exam)|[CLEP](#college-credit-through-an-assessment-or-exam)|[JCCC Prior Learning Assessment](#college-credit-through-an-assessment-or-exam)|[JCCC Quick Step](#jccc-quick-step)|CTE Pathway: Programming and Software Development|DC CS 134|DC CS 200|DC CS 205|DC Web 110|DC Game 105|DC ELEC 120|DC ELEC 125|DC ELEC 134|DC ELEC 225|DC ELEC 234|DC ELEC 236|AP CS A|AP CS Principles|CyberPatriots Club
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Kansas|✔️|✔️|✔️|✔️|✔️|||||||||||||||
+|[Olathe](#olathe-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|
+|[Shawnee-Mission](#shawnee-mission-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||||||✔️||
+|[Blue Valley](#blue-valley-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||||||✔️|✔️|✔️
+|[Spring Hill](#spring-hill-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️||||||||||||||
+|[Gardner-Edgerton](#gardner-edgerton-public-schools)|✔️|✔️|✔️|✔️|✔️||✔️|||||||||||✔️|✔️|
+|[DeSoto](#desoto-public-schools)|✔️|✔️|✔️|✔️|✔️|✔️|✔️||✔️||✔️|?|?|||||✔️|✔️|
+
+*Verify this information with the school district you've enrolled in and the participating high school*
+
+`DC`: Dual Credit, `AP`: Advanced Placement, `CS`: Computer Science
+
+References:
+- https://www.jccc.edu/admissions/early-college/high-school-concurrent-enrollment/schools-schedules/
+- https://www.jccc.edu/admissions/early-college/career-pathways/school-districts.html
+- https://www.olatheschools.org/cms/lib/KS01907024/Centricity/Domain/1181/2022-23-High-School-Program-Planning-Guide-113021.pdf
+- https://resources.finalsite.net/images/v1609793744/smsdorg/karjjjd8vglx22nf2bcg/20212022HSProgramPlanningGuide.pdf
+- https://bvusd.instructure.com/courses/64440/pages/business-and-computer-science
+- https://bvusd.instructure.com/courses/64440/pages/business-and-computer-science-course-descriptions
+- https://bvusd.instructure.com/courses/64440/pages/caps-course-descriptions
+- https://docs.google.com/document/d/1hwB5p3__OBbyv6S3jvfYZDHACQdvva75cOLCvrF5hKw/edit
+- https://drive.google.com/file/d/17eNU66nwPBQU0oA8SvBU_d0iDEK-4ATI/view
+- https://www.usd232.org/site/handlers/filedownload.ashx?moduleinstanceid=10187&dataid=33909&FileName=USD%20232%20Course%20Guide%202022-2023.pdf
+- Direct discussions with teachers in those school districts
 
 ### Generally Available Options Through JCCC
 These options may be available to any Johnson County Public School students regardless of the school district they belong in. Check with your school and JCCC for details.
@@ -540,6 +557,11 @@ There's a big list here: https://www.kansascityusergroups.com/ in addition to th
 ## Explore Careers and Entry-Level Positions
 
 The education, certifications, and job experience you seek should be informed by real actual jobs available in the geographic region you plan to work. Therefore, one of your first steps is to research those jobs through websites like LinkedIn, Google, Indeed, and others. Start by searching for the job you are interested in (in your desired geographic region). Next, look at the amount of education, experience, skills, and certifications required. Often, that desired first job will require considerably more experience than you have initially. So, your next step is to chart a path towards that job. What kind of experience does that future job require and is there another entry-level position (even though it may be less desirable) that provides you that experience and the opportunity to gain those additional skills? How many years experience do you need (how long at minimum should you stay in that entry-level position)? What other education and/or certifications should you pursue while in that entry-level position? Create a plan for getting to that future dream job. You are then going to look for opportunities to meet those goals while in high school, college, and while at that first job.
+
+Resources:
+- https://hirepaths.com/explore-careers/technology/jobs-in-energy-technology
+- https://cybersecurityguide.org/careers/
+- https://cte.careertech.org/sites/default/files/CCFrame-IT.pdf
 
 ### Example Kansas City Area Entry-Level IT Jobs
 
