@@ -500,14 +500,31 @@ There's a big list here: https://www.kansascityusergroups.com/ in addition to th
 
 The education, certifications, and job experience you seek should be informed by real actual jobs available in the geographic region you plan to work. Therefore, one of your first steps is to research those jobs through websites like LinkedIn, Google, Indeed, and others. Start by searching for the job you are interested in (in your desired geographic region). Next, look at the amount of education, experience, skills, and certifications required. Often, that desired first job will require considerably more experience than you have initially. So, your next step is to chart a path towards that job. What kind of experience does that future job require and is there another entry-level position (even though it may be less desirable) that provides you that experience and the opportunity to gain those additional skills? How many years experience do you need (how long at minimum should you stay in that entry-level position)? What other education and/or certifications should you pursue while in that entry-level position? Create a plan for getting to that future dream job. You are then going to look for opportunities to meet those goals while in high school, college, and while at that first job.
 
-Resources:
-- https://hirepaths.com/explore-careers/technology/jobs-in-energy-technology
-- https://cybersecurityguide.org/careers/
+### Career Exploration Resources
+#### General IT Jobs
+- [Types of Entry Level Tech Jobs (Video)](https://www.youtube.com/watch?v=pDQeNV9Q988)
 - https://cte.careertech.org/sites/default/files/CCFrame-IT.pdf
+- https://hirepaths.com/explore-careers/technology/jobs-in-energy-technology
+
+#### Cybersecurity
+- [Cyberseek's Cybersecurity Career Pathway](https://www.cyberseek.org/pathway.html)
+- https://cybersecurityguide.org/careers/
+- [What types of entry-level cybersecurity roles are there? (Video)](https://www.youtube.com/watch?v=HrGcI3LuzxY)
+
+#### Software Development/Developer
+- [The Career Paths in Software Engineering (Video)](https://www.youtube.com/watch?v=xuxTJUIi7nQ)
+- [13 Types of Software Developers (Video)](https://www.youtube.com/watch?v=_9ZS6q4996g) (Warning: Brief unprofessional language used in this video)
+- [The 10 Types of Software Developers, Ranked (Video)](https://www.youtube.com/watch?v=-AAA68uZuWU)
+- [Career Paths for Software Engineers (Video)](https://www.youtube.com/watch?v=07IViT_Ezuc)
+
+#### Cloud
+- [7 cloud computing job roles to advance your career](https://www.techtarget.com/searchcloudcomputing/feature/7-cloud-computing-job-roles-to-advance-your-career)
+- [What Cloud Jobs are Available? (Video)](https://www.youtube.com/watch?v=hVQRrhevo7k)
+- [Top 5 Cloud Computing Careers For 2022 (Video)](https://www.youtube.com/watch?v=nmZ0c_YFwkU)
 
 ### Example Kansas City Area Entry-Level IT Jobs
 
-This section currently focuses on opportunities for high school graduates. If you will graduate with an associates or bachelors degree, its much easier to find entry-level positions through job searching sites.
+This section currently focuses on opportunities for high school graduates. If you will graduate with an associates or bachelors degree, it's much easier to find entry-level positions through job searching sites.
 
 #### Microcenter
 - Go to: https://www.microcenter.com/site/stores/employment.aspx
